@@ -1,10 +1,8 @@
-# web-jekyll-base
+# web-cse510-au18
 
-[![Build Status](https://travis-ci.org/fogies/web-jekyll-base.svg?branch=master)](https://travis-ci.org/fogies/web-jekyll-base)
+[![Build Status](https://travis-ci.org/uwcse510/web-cse510-au18.svg?branch=master)](https://travis-ci.org/uwcse510/web-cse510-au18)
 
-A fogies project used as a template for Jekyll websites.
-
-Provides for a build process, common dependencies and extensions, and serving via docker-jekyll-site.
+The course website for CSE 510 in Autumn 2018.
 
 ## Project Dependencies
 
