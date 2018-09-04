@@ -739,11 +739,9 @@ calendar:
 
 ---
 
-{% comment %}
 <div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed. All content remains subject to change.
 </div>
-{% endcomment %}
 
 <html>
 <div class="calendar">
