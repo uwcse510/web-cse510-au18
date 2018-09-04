@@ -1,4 +1,4 @@
-# web-cse510-wi18
+# web-cse510-au18
 
 {% if readme.travis_badge %}
 {{ readme.travis_badge }}

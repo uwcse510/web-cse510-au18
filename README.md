@@ -1,4 +1,4 @@
-# web-cse510-wi18
+# web-cse510-au18
 
 [![Build Status](https://travis-ci.org/uwcse510/web-cse510-au18.svg?branch=master)](https://travis-ci.org/uwcse510/web-cse510-au18)
 
