@@ -38,7 +38,7 @@ config:
     url_github_readme: blob/master/README.md
     url_github_readme_basedir: blob/master/readme
 
-    travis_badge: '[![Build Status](https://travis-ci.org/fogies/web-jekyll-base.svg?branch=master)](https://travis-ci.org/fogies/web-jekyll-base)'
+    travis_badge: '[![Build Status](https://travis-ci.org/uwcse510/web-cse510-au18.svg?branch=master)](https://travis-ci.org/uwcse510/web-cse510-au18)'
 
     working_directory_windows: c:/devel/web-jekyll-base
     working_directory_mac: ~/Desktop/web-jekyll-base
