@@ -3,120 +3,112 @@ layout: base/bar/bar-sidebar-none
 title: Calendar
 
 paper_url:
-# History
-  grudin2012:                   https://canvas.uw.edu/files/45688012/download?download_frd=1
-# Visions
-  bederson1994:                 https://canvas.uw.edu/files/45688023/download?download_frd=1
+## History
+#  grudin2012:                   https://canvas.uw.edu/files/45688012/download?download_frd=1
+## Visions
+#  bederson1994:                 https://canvas.uw.edu/files/45688023/download?download_frd=1
   bush1945:                     https://theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
-  fitts1954:                    https://canvas.uw.edu/files/45688024/download?download_frd=1
-  hollan1992:                   https://canvas.uw.edu/files/45688026/download?download_frd=1
-  ishii1997:                    https://canvas.uw.edu/files/45688027/download?download_frd=1
-  pinhanez2001:                 https://canvas.uw.edu/files/45688017/download?download_frd=1
-  want1992:                     https://canvas.uw.edu/files/45688019/download?download_frd=1
-  want2002:                     https://canvas.uw.edu/files/45688020/download?download_frd=1
-  weiser1991:                   https://canvas.uw.edu/files/45688021/download?download_frd=1
-  wellner1993:                  https://canvas.uw.edu/files/45688022/download?download_frd=1
+#  fitts1954:                    https://canvas.uw.edu/files/45688024/download?download_frd=1
+#  hollan1992:                   https://canvas.uw.edu/files/45688026/download?download_frd=1
+#  ishii1997:                    https://canvas.uw.edu/files/45688027/download?download_frd=1
+#  pinhanez2001:                 https://canvas.uw.edu/files/45688017/download?download_frd=1
+#  want1992:                     https://canvas.uw.edu/files/45688019/download?download_frd=1
+#  want2002:                     https://canvas.uw.edu/files/45688020/download?download_frd=1
+#  weiser1991:                   https://canvas.uw.edu/files/45688021/download?download_frd=1
+#  wellner1993:                  https://canvas.uw.edu/files/45688022/download?download_frd=1
   wellner1993_video:            http://www.youtube.com/watch?v=S8lCetZ_57g
   victor2006:                   http://worrydream.com/MagicInk/
-  horvitz1999:                  https://canvas.uw.edu/files/45770588/download?download_frd=1 
-  hinckley2000:                 https://canvas.uw.edu/files/45770587/download?download_frd=1 
-# Contributions and Methods
-  wobbrock2016:                 https://canvas.uw.edu/files/45687997/download?download_frd=1
-  fogarty2017:                  https://canvas.uw.edu/files/45688004/download?download_frd=1
-  artifact_buschek2017:         https://canvas.uw.edu/files/45687998/download?download_frd=1
-  artifact_kery2017:            https://canvas.uw.edu/files/45687999/download?download_frd=1
-  dataset_yin2017:              https://canvas.uw.edu/files/45688000/download?download_frd=1
-  dataset_deka2017:             https://canvas.uw.edu/files/45693284/download?download_frd=1      
-  empirical_abdelrahman2017:    https://canvas.uw.edu/files/45688001/download?download_frd=1
-  empirical_fan2017:            https://canvas.uw.edu/files/45688002/download?download_frd=1
-  method_elsden2017:            https://canvas.uw.edu/files/45688006/download?download_frd=1
-  method_prabhakar2017:         https://canvas.uw.edu/files/45688007/download?download_frd=1
-  opinion_lazar2017:            https://canvas.uw.edu/files/45688009/download?download_frd=1
-  opinion_marshall2017:         https://canvas.uw.edu/files/45688010/download?download_frd=1
-  survey_velt2017:              https://canvas.uw.edu/files/45687993/download?download_frd=1
-  theory_alkhatib2017:          https://canvas.uw.edu/files/45687994/download?download_frd=1
-  theory_hornbaek2017:          https://canvas.uw.edu/files/45687995/download?download_frd=1
-  survey_schlesinger2017:       https://canvas.uw.edu/files/45687992/download?download_frd=1
-# Usability Evaluation Considered Harmful
-  stokes1997:                   https://canvas.uw.edu/files/45688794/download?download_frd=1
-  simon1998:                    https://canvas.uw.edu/files/45688793/download?download_frd=1
-  greenberg2008:                https://canvas.uw.edu/files/45688795/download?download_frd=1
-# Modeling Touch Input
-  buxton1995:                   https://canvas.uw.edu/files/46091559/download?download_frd=1
-  holz2010:                     https://canvas.uw.edu/files/46091557/download?download_frd=1
-  vogel2007:                    https://canvas.uw.edu/files/46091558/download?download_frd=1
-# Human Performance
-  accot1997:                    https://canvas.uw.edu/files/46133449/download?download_frd=1
-  apitz2004:                    https://canvas.uw.edu/files/46133451/download?download_frd=1
-  mackenzie1992:                https://canvas.uw.edu/files/46133453/download?download_frd=1
-  mackenzie2001:                https://canvas.uw.edu/files/46133447/download?download_frd=1
-  wobbrock2008:                 https://canvas.uw.edu/files/46133448/download?download_frd=1
-# Design Tools
-  newman2003:                   https://canvas.uw.edu/files/46133501/download?download_frd=1
-  hartmann2006:                 https://canvas.uw.edu/files/46208310/download?download_frd=1
-  dow2010:                      https://canvas.uw.edu/files/46208308/download?download_frd=1
-# Interacting with Code
-  ko2004:                       https://canvas.uw.edu/files/46133590/download?download_frd=1
-  bragdon2010:                  https://canvas.uw.edu/files/46133596/download?download_frd=1
-  verou2016:                    https://canvas.uw.edu/files/46133597/download?download_frd=1
-# Interface Toolkits
-  bostock2011:                  https://canvas.uw.edu/files/46133657/download?download_frd=1
-  dixon2010:                    https://canvas.uw.edu/files/46133654/download?download_frd=1
-  myers2000:                    https://canvas.uw.edu/files/46133656/download?download_frd=1
-# ICTD
-  brewer2005:                   https://canvas.uw.edu/files/46168292/download?download_frd=1
-  smyth2010:                    https://canvas.uw.edu/files/46168273/download?download_frd=1
-  irani2010:                    https://canvas.uw.edu/files/46168393/download?download_frd=1
-#  # Interacting with Cameras
-#  bellotti2002:                 https://canvas.uw.edu/files/41703282/download?download_frd=1
-#  harrison2011:                 https://canvas.uw.edu/files/41703283/download?download_frd=1
-#  wilson2014_alreadyAssigned:   https://canvas.uw.edu/files/41703284/download?download_frd=1
-# Accessibility
-  wobbrock2011:                  https://canvas.uw.edu/files/46442084/download?download_frd=1
-  bigham2010:                    https://canvas.uw.edu/files/46442081/download?download_frd=1
-  pradhan2018:                   https://canvas.uw.edu/files/46442083/download?download_frd=1
-#  # Human-Centered Machine Learning
-#  patel2008:                    https://canvas.uw.edu/files/42432244/download?download_frd=1
-#  cheng2015:                    https://canvas.uw.edu/files/42432240/download?download_frd=1
-#  fails2003:                    https://canvas.uw.edu/files/42432242/download?download_frd=1
-# Designing Creativity Tools for Children
-  resnick2005:                  https://canvas.uw.edu/files/46168621/download?download_frd=1
-  kazemitabaar2017:             https://canvas.uw.edu/files/46168619/download?download_frd=1
-  resnick2009:                  https://canvas.uw.edu/files/46168622/download?download_frd=1
-  resnick2000:                  https://canvas.uw.edu/files/46168620/download?download_frd=1
-# Context-Aware Interaction
-  salber1999:                   https://canvas.uw.edu/files/46441827/download?download_frd=1
-  banovic2017:                  https://canvas.uw.edu/files/46441826/download?download_frd=1
-  bae2017:                      https://canvas.uw.edu/files/46441825/download?download_frd=1
-# Human Perception (and Its Manipulation)
-  macknik2008:                  https://canvas.uw.edu/files/46524690/download?download_frd=1
-  azmandian2016:                https://canvas.uw.edu/files/46524688/download?download_frd=1
-  wilson2014:                   https://canvas.uw.edu/files/46524691/download?download_frd=1
-# Uncertainty in User Interfaces
-  schwarz2015:                  https://canvas.uw.edu/files/46910056/download?download_frd=1
-  kim2017:                      https://canvas.uw.edu/files/46910043/download?download_frd=1
-  heer2004:                     https://canvas.uw.edu/files/46908023/download?download_frd=1
-# Critical Inquiry in HCI and Design
-  rosnerintro:                  https://canvas.uw.edu/files/47063658/download?download_frd=1
-  rosnerchap4:                  https://canvas.uw.edu/files/47063654/download?download_frd=1
-  rosnerchap5:                  https://canvas.uw.edu/files/47063656/download?download_frd=1
+#  horvitz1999:                  https://canvas.uw.edu/files/45770588/download?download_frd=1
+#  hinckley2000:                 https://canvas.uw.edu/files/45770587/download?download_frd=1
+## Contributions and Methods
+#  wobbrock2016:                 https://canvas.uw.edu/files/45687997/download?download_frd=1
+#  fogarty2017:                  https://canvas.uw.edu/files/45688004/download?download_frd=1
+#  artifact_buschek2017:         https://canvas.uw.edu/files/45687998/download?download_frd=1
+#  artifact_kery2017:            https://canvas.uw.edu/files/45687999/download?download_frd=1
+#  dataset_yin2017:              https://canvas.uw.edu/files/45688000/download?download_frd=1
+#  dataset_deka2017:             https://canvas.uw.edu/files/45693284/download?download_frd=1
+#  empirical_abdelrahman2017:    https://canvas.uw.edu/files/45688001/download?download_frd=1
+#  empirical_fan2017:            https://canvas.uw.edu/files/45688002/download?download_frd=1
+#  method_elsden2017:            https://canvas.uw.edu/files/45688006/download?download_frd=1
+#  method_prabhakar2017:         https://canvas.uw.edu/files/45688007/download?download_frd=1
+#  opinion_lazar2017:            https://canvas.uw.edu/files/45688009/download?download_frd=1
+#  opinion_marshall2017:         https://canvas.uw.edu/files/45688010/download?download_frd=1
+#  survey_velt2017:              https://canvas.uw.edu/files/45687993/download?download_frd=1
+#  theory_alkhatib2017:          https://canvas.uw.edu/files/45687994/download?download_frd=1
+#  theory_hornbaek2017:          https://canvas.uw.edu/files/45687995/download?download_frd=1
+#  survey_schlesinger2017:       https://canvas.uw.edu/files/45687992/download?download_frd=1
+## Usability Evaluation Considered Harmful
+#  stokes1997:                   https://canvas.uw.edu/files/45688794/download?download_frd=1
+#  simon1998:                    https://canvas.uw.edu/files/45688793/download?download_frd=1
+#  greenberg2008:                https://canvas.uw.edu/files/45688795/download?download_frd=1
+## Modeling Touch Input
+#  buxton1995:                   https://canvas.uw.edu/files/46091559/download?download_frd=1
+#  holz2010:                     https://canvas.uw.edu/files/46091557/download?download_frd=1
+#  vogel2007:                    https://canvas.uw.edu/files/46091558/download?download_frd=1
+## Human Performance
+#  accot1997:                    https://canvas.uw.edu/files/46133449/download?download_frd=1
+#  apitz2004:                    https://canvas.uw.edu/files/46133451/download?download_frd=1
+#  mackenzie1992:                https://canvas.uw.edu/files/46133453/download?download_frd=1
+#  mackenzie2001:                https://canvas.uw.edu/files/46133447/download?download_frd=1
+#  wobbrock2008:                 https://canvas.uw.edu/files/46133448/download?download_frd=1
+## Design Tools
+#  newman2003:                   https://canvas.uw.edu/files/46133501/download?download_frd=1
+#  hartmann2006:                 https://canvas.uw.edu/files/46208310/download?download_frd=1
+#  dow2010:                      https://canvas.uw.edu/files/46208308/download?download_frd=1
+## Interacting with Code
+#  ko2004:                       https://canvas.uw.edu/files/46133590/download?download_frd=1
+#  bragdon2010:                  https://canvas.uw.edu/files/46133596/download?download_frd=1
+#  verou2016:                    https://canvas.uw.edu/files/46133597/download?download_frd=1
+## Interface Toolkits
+#  bostock2011:                  https://canvas.uw.edu/files/46133657/download?download_frd=1
+#  dixon2010:                    https://canvas.uw.edu/files/46133654/download?download_frd=1
+#  myers2000:                    https://canvas.uw.edu/files/46133656/download?download_frd=1
+## ICTD
+#  brewer2005:                   https://canvas.uw.edu/files/46168292/download?download_frd=1
+#  smyth2010:                    https://canvas.uw.edu/files/46168273/download?download_frd=1
+#  irani2010:                    https://canvas.uw.edu/files/46168393/download?download_frd=1
+## Accessibility
+#  wobbrock2011:                  https://canvas.uw.edu/files/46442084/download?download_frd=1
+#  bigham2010:                    https://canvas.uw.edu/files/46442081/download?download_frd=1
+#  pradhan2018:                   https://canvas.uw.edu/files/46442083/download?download_frd=1
+## Designing Creativity Tools for Children
+#  resnick2005:                  https://canvas.uw.edu/files/46168621/download?download_frd=1
+#  kazemitabaar2017:             https://canvas.uw.edu/files/46168619/download?download_frd=1
+#  resnick2009:                  https://canvas.uw.edu/files/46168622/download?download_frd=1
+#  resnick2000:                  https://canvas.uw.edu/files/46168620/download?download_frd=1
+## Context-Aware Interaction
+#  salber1999:                   https://canvas.uw.edu/files/46441827/download?download_frd=1
+#  banovic2017:                  https://canvas.uw.edu/files/46441826/download?download_frd=1
+#  bae2017:                      https://canvas.uw.edu/files/46441825/download?download_frd=1
+## Human Perception (and Its Manipulation)
+#  macknik2008:                  https://canvas.uw.edu/files/46524690/download?download_frd=1
+#  azmandian2016:                https://canvas.uw.edu/files/46524688/download?download_frd=1
+#  wilson2014:                   https://canvas.uw.edu/files/46524691/download?download_frd=1
+## Uncertainty in User Interfaces
+#  schwarz2015:                  https://canvas.uw.edu/files/46910056/download?download_frd=1
+#  kim2017:                      https://canvas.uw.edu/files/46910043/download?download_frd=1
+#  heer2004:                     https://canvas.uw.edu/files/46908023/download?download_frd=1
+## Critical Inquiry in HCI and Design
+#  rosnerintro:                  https://canvas.uw.edu/files/47063658/download?download_frd=1
+#  rosnerchap4:                  https://canvas.uw.edu/files/47063654/download?download_frd=1
+#  rosnerchap5:                  https://canvas.uw.edu/files/47063656/download?download_frd=1
+
 
 canvas:
-  proposal_pres:    https://canvas.uw.edu/courses/1187533/assignments/4018006
-  proposal_doc:     https://canvas.uw.edu/courses/1187533/assignments/4017993
-  milestone1_pres:  https://canvas.uw.edu/courses/1187533/assignments/4018016
-  milestone1_doc:   https://canvas.uw.edu/courses/1187533/assignments/4018014
-  milestone2_pres:  https://canvas.uw.edu/courses/1187533/assignments/4018019
-  milestone2_doc:   https://canvas.uw.edu/courses/1187533/assignments/4018017
-  final_rep:        https://canvas.uw.edu/courses/1187533/assignments/4018022
-  stats:            https://canvas.uw.edu/courses/1187533/assignments/4073435
-  exam:             https://canvas.uw.edu/courses/1187533/assignments/4073437
+#  proposal_pres:    https://canvas.uw.edu/courses/1187533/assignments/4018006
+#  proposal_doc:     https://canvas.uw.edu/courses/1187533/assignments/4017993
+#  milestone1_pres:  https://canvas.uw.edu/courses/1187533/assignments/4018016
+#  milestone1_doc:   https://canvas.uw.edu/courses/1187533/assignments/4018014
+#  milestone2_pres:  https://canvas.uw.edu/courses/1187533/assignments/4018019
+#  milestone2_doc:   https://canvas.uw.edu/courses/1187533/assignments/4018017
+#  final_rep:        https://canvas.uw.edu/courses/1187533/assignments/4018022
+#  stats:            https://canvas.uw.edu/courses/1187533/assignments/4073435
+#  exam:             https://canvas.uw.edu/courses/1187533/assignments/4073437
 
 calendar:
-  - date: Thu Jan 4
+  - date: Thu Sep 27
     title: "Course Overview and HCI History"
-    collapse: True
-    slides: "https://canvas.uw.edu/files/45936596/download?download_frd=1"
+    collapse: False
     content:
       - |
         No Readings Assigned
@@ -124,18 +116,9 @@ calendar:
       - |
         Jonathan Grudin. [A Moving Target - The Evolution of Human-Computer Interaction]({{ page.paper_url.grudin2012 }}). Book Chapter.
 
-#  - date:  Mon&nbsp;Jan&nbsp;8 to&nbsp;Fri&nbsp;Jan&nbsp;12
-#    title: Project Early Feedback Meetings
-#    content:
-#      - |
-#        Meeting is optional. You can also email to request feedback or to inquire about arranging another time to meet. 
-#        Sign up for the reserved meeting times here:
-#        
-#        <https://calendar.google.com/calendar/selfsched?sstoken=UUhkV1oxenFvQmdqfGRlZmF1bHR8NTczYzFkZjQ3OTFiMmNiZTcwZmY4NzZmY2Q3OGNlYzg>
-        
-  - date: Tue Jan 9
+  - date: Tue Oct 2
     title: "Visions of Human-Computer Interaction"
-    collapse: True
+    collapse: False
     content:
       - |
         These "vision" papers challenge a dominant pattern,
@@ -198,7 +181,7 @@ calendar:
 
         First, organize into groups of 2 to briefly present one of the above vision papers.
 
-        <https://docs.google.com/document/d/1-QzEOq3zPusRUW6S31_QAeSpGD8rt13UUYJrVwDKY4Q/edit?usp=sharing>
+        `<https://docs.google.com/document/d/1-QzEOq3zPusRUW6S31_QAeSpGD8rt13UUYJrVwDKY4Q/edit?usp=sharing>`
 
         It is critical to remember most people will not have read the paper you are presenting.
         It is therefore your responsibility to explain the vision.
@@ -209,9 +192,9 @@ calendar:
         - How has this vision played out since this publication?
         - How might this vision continue to play out in the future?
 
-        Submit your presentation as 3 to 4 slides in PDF, PPT, or PPTX format:
+        Submit your presentation as 3 to 4  in PDF, PPT, or PPTX format:
         
-        <https://canvas.uw.edu/courses/1187533/assignments/4016009>
+        `<https://canvas.uw.edu/courses/1187533/assignments/4016009>`
 
         Second, individually read at least one more of the above vision papers.
 
@@ -220,9 +203,9 @@ calendar:
         We are assigning them so that you can see these visions and explore them appropriately.
         You can and should skim according to your needs.
 
-  - date: Thu Jan 11
+  - date: Tue Oct 4
     title: "Contributions and Methods in HCI"
-    collapse: True
+    collapse: False
     content:
       - |
         Read the following framing papers:
@@ -245,70 +228,70 @@ calendar:
         ### Empirical Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        Yomna Abdelrahman, Mohamed Khamis, Stefan Schneegass, Florian Alt. [Stay Cool! Understanding Thermal Attacks on Mobile-based User Authentication]( {{ page.paper_url.empirical_abdelrahman2017 }}). CHI 2017.
+        `Yomna Abdelrahman, Mohamed Khamis, Stefan Schneegass, Florian Alt. [Stay Cool! Understanding Thermal Attacks on Mobile-based User Authentication]( {{ page.paper_url.empirical_abdelrahman2017 }}). CHI 2017.`
         </li>
         <li class="paper" markdown="block">
-        Min Fan, Alissa N. Antle, Maureen Hoskyn, Carman Neustaedter, Emily S. Cramer. [Why Tangibility Matters: A Design Case Study of At-Risk Children Learning to Read and Spell]({{ page.paper_url.empirical_fan2017 }}). CHI 2017.
+        `Min Fan, Alissa N. Antle, Maureen Hoskyn, Carman Neustaedter, Emily S. Cramer. [Why Tangibility Matters: A Design Case Study of At-Risk Children Learning to Read and Spell]({{ page.paper_url.empirical_fan2017 }}). CHI 2017.`
         </li>
         </ul>
 
         ### Artifact Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        Daniel Buschek, Florian Alt. [ProbUI: Generalising Touch Target Representations to Enable Declarative Gesture Deﬁnition for Probabilistic GUIs]({{ page.paper_url.artifact_buschek2017 }}). CHI 2017.
+        `Daniel Buschek, Florian Alt. [ProbUI: Generalising Touch Target Representations to Enable Declarative Gesture Deﬁnition for Probabilistic GUIs]({{ page.paper_url.artifact_buschek2017 }}). CHI 2017.`
         </li>
         <li class="paper" markdown="block">
-        Mary Beth Kery, Amber Horvath, Brad Myers. [Variolite: Supporting Exploratory Programming by Data Scientists]({{ page.paper_url.artifact_kery2017 }}). CHI 2017.
+        `Mary Beth Kery, Amber Horvath, Brad Myers. [Variolite: Supporting Exploratory Programming by Data Scientists]({{ page.paper_url.artifact_kery2017 }}). CHI 2017.`
         </li>
         </ul>
 
         ### Methodological Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        Christopher Elsden, David Chatting, Abigail Durrant, Andrew Garbett, Bettina Nissen, John Vines, David Kirt. [On Speculative Enactments]( {{ page.paper_url.method_elsden2017 }} ). CHI 2017.
+        `Christopher Elsden, David Chatting, Abigail Durrant, Andrew Garbett, Bettina Nissen, John Vines, David Kirt. [On Speculative Enactments]( {{ page.paper_url.method_elsden2017 }} ). CHI 2017.`
         </li>
         <li class="paper" markdown="block">
-        Annu Sible Prabhakar, Lucia Guerra-Reyes, Vanessa M. Kleinschmidt, Ben Jelen, Haley MacLeod, Kay Connelly, Katie A. Siek. [Investigating the Suitability of the Asynchronous, Remote, Community-based Method for Pregnant and New Mothers]({{ page.paper_url.method_prabhakar2017 }}). CHI 2017
+        `Annu Sible Prabhakar, Lucia Guerra-Reyes, Vanessa M. Kleinschmidt, Ben Jelen, Haley MacLeod, Kay Connelly, Katie A. Siek. [Investigating the Suitability of the Asynchronous, Remote, Community-based Method for Pregnant and New Mothers]({{ page.paper_url.method_prabhakar2017 }}). CHI 2017.`
         </li>
         </ul>
 
         ### Theoretical Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        Ali Alkhatib, Michael S. Bernstein, Margaret Levi. [Examining Crowd Work and Gig Work Through The Historical Lens of Piecework]({{ page.paper_url.theory_alkhatib2017 }}). CHI 2017.
+        `Ali Alkhatib, Michael S. Bernstein, Margaret Levi. [Examining Crowd Work and Gig Work Through The Historical Lens of Piecework]({{ page.paper_url.theory_alkhatib2017 }}). CHI 2017.`
         </li>
         <li class="paper" markdown="block">
-        Kasper Hornbaek, Antti Oulasvirta. [What Is Interaction?]({{ page.paper_url.theory_hornbaek2017 }}). CHI 2017.
+        `Kasper Hornbaek, Antti Oulasvirta. [What Is Interaction?]({{ page.paper_url.theory_hornbaek2017 }}). CHI 2017.`
         </li>
         </ul>
 
         ### Benchmark/Dataset Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        Kodlee Yin, Cecilia Aragon, Sarah Evans, Katie Davis. [Where No One Has Gone Before: A Meta-Dataset of the World’s Largest Fanfiction Repository]({{ page.paper_url.dataset_yin2017 }}). CHI 2017.
+        `Kodlee Yin, Cecilia Aragon, Sarah Evans, Katie Davis. [Where No One Has Gone Before: A Meta-Dataset of the World’s Largest Fanfiction Repository]({{ page.paper_url.dataset_yin2017 }}). CHI 2017.`
         </li>
         <li class="paper" markdown="block">
-        Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang Li, Jeffrey Nichols, Ranjitha Kumar. [Rico: A Mobile App Dataset for Building Data-Driven Design Applications]({{ page.paper_url.dataset_deka2017 }}). UIST 2017.
+        `Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang Li, Jeffrey Nichols, Ranjitha Kumar. [Rico: A Mobile App Dataset for Building Data-Driven Design Applications]({{ page.paper_url.dataset_deka2017 }}). UIST 2017.`
         </li>
         </ul>
 
         ### Survey Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        Ari Schlesinger, W. Keith Edwards, Rebecca E. Grinter. [Intersectional HCI: Engaging Identity through Gender, Race, and Class]({{ page.paper_url.survey_schlesinger2017 }}). CHI 2017.
+        `Ari Schlesinger, W. Keith Edwards, Rebecca E. Grinter. [Intersectional HCI: Engaging Identity through Gender, Race, and Class]({{ page.paper_url.survey_schlesinger2017 }}). CHI 2017.`
         </li>
         <li class="paper" markdown="block">
-        Raphael Velt, Steve Benford, Stuart Reeves. [A Survey of the Trajectories Conceptual Framework: Investigating Theory Use in HCI]({{ page.paper_url.survey_velt2017 }}). CHI 2017.
+        `Raphael Velt, Steve Benford, Stuart Reeves. [A Survey of the Trajectories Conceptual Framework: Investigating Theory Use in HCI]({{ page.paper_url.survey_velt2017 }}). CHI 2017.`
         </li>
         </ul>
 
         ### Opinion Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        Amanda Lazar, Caroline Edasis, Anne Marie Piper. [A Critical Lens on Dementia and Design in HCI]({{ page.paper_url.opinion_lazar2017 }}). CHI 2017.
+        `Amanda Lazar, Caroline Edasis, Anne Marie Piper. [A Critical Lens on Dementia and Design in HCI]({{ page.paper_url.opinion_lazar2017 }}). CHI 2017.`
         </li>
         <li class="paper" markdown="block">
-        Joe Marshall, Conor Linehan. [Misrepresentation of Health Research in Exertion Games Literature]({{ page.paper_url.opinion_marshall2017 }}). CHI 2017.
+        `Joe Marshall, Conor Linehan. [Misrepresentation of Health Research in Exertion Games Literature]({{ page.paper_url.opinion_marshall2017 }}). CHI 2017.`
         </li>
         </ul>
       - |
@@ -316,13 +299,13 @@ calendar:
 
         No reading report is necessary.
 
-  - date: Tue Jan 16
-    collapse: True
+  - date: Tue Oct 9
+    collapse: False
     title: "Project Proposal Presentations / Usability Evaluation Considered Harmful"
     content:
       - |
         <div class="alert" markdown="block">
-        Class Will Start at 10:30 to Accommodate Presentations
+        Class Will Start at 9:00 to Accommodate Presentations
         </div>
       - |
         <div class="major" markdown="block">
@@ -349,114 +332,63 @@ calendar:
         </ul>
       - |
         ### Submission
-        
+
         Submit your proposal document in PDF format:
 
-        <{{ page.canvas.proposal_doc }}>
+        `<{{ page.canvas.proposal_doc }}>`
 
         Submit your proposal presentation in PDF, PPT, or PPTX format:
 
-        <{{ page.canvas.proposal_pres }}>
+        `<{{ page.canvas.proposal_pres }}>`
       - |
         ### Non-Standard Reading Format
 
         Post a reading report in the appropriate thread:
 
-        <https://canvas.uw.edu/courses/1187533/discussion_topics>
+        `<https://canvas.uw.edu/courses/1187533/discussion_topics>`
 
         Only one paper is assigned, so that will be the focus of your reading report.
 
-  - date: Thu Jan 18
-    collapse: True
-    title: "Research Topic: Human Performance with Computing Systems"
-    guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
-    slides: "https://canvas.uw.edu/files/46402767/download?download_frd=1"
-    reading_framing:
-      - |
-        I. S. MacKenzie. [Fitts’ Law as a Research and Design Tool in Human-Computer Interaction]({{ page.paper_url.mackenzie1992 }}). Human-Computer Interaction 7, 1. 1992. 
-    reading_instances:
-      - |
-        Johnny Accot, Shumin Zhai. [Beyond Fitts’ Law: Models for Trajectory-Based HCI Tasks]({{ page.paper_url.accot1997 }}). CHI 1997.
-      - |
-        Georg Apitz, François Guimbretière. [CrossY: A Crossing-Based Drawing Application]({{ page.paper_url.apitz2004 }}). UIST 2004. 
-    reading_resources:
-      - |
-        I. S. MacKenzie, Tatu Kauppinen, Miika Silfverberg. [Accuracy Measures for Evaluating Computer Pointing Devices]({{ page.paper_url.mackenzie2001 }}). CHI 2001.
-      - |
-        Jacob O. Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law]({{ page.paper_url.wobbrock2008 }}). CHI 2008.
-      - |
-        [FittsStudy Software](https://depts.washington.edu/madlab/proj/fittsstudy/).
-
-  - date: Tue Jan 23
-    collapse: True
-    title: "Research Topic: Design Tools"
-    slides: "https://canvas.uw.edu/files/46402755/download?download_frd=1"
-    reading_framing:
-      - |
-        Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: An Informal Web Site Design Tool Inspired by Observations of Practice]({{ page.paper_url.newman2003 }}). Human-Computer Interaction Journal, 2003.
-    reading_instances:
-      - |
-        Steven P. Dow, Alana Glassco, Jonathan Kass, Melissa Schwarz, Daniel L. Schwartz, Scott R. Klemmer. [Parallel Prototyping Leads to Better Design Results, More Divergence, and Increased Self-Efficacy]({{ page.paper_url.dow2010 }}). TOCHI 2010.
-      - |
-        Björn Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, Jennifer Gee. [Reflective Physical Prototyping through Integrated Design, Test, and Analysis]({{ page.paper_url.hartmann2006 }}). UIST 2006.
-
-  - date: Thu Jan 25
-    collapse: True
-    title: "Experimental Design and Analysis"
-    slides: "https://canvas.uw.edu/files/46402721/download?download_frd=1"
+  - date: Thu Oct 11
+    title: "Research Topic: TBD"
+    collapse: False
     content:
-      - |
-        <div class="major" markdown="block">
-        Assigned: [Statistics Lab]({{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip)
-        </div>
-      - |
-        No Readings Assigned
 
-  - date: Tue Jan 30
-    collapse: True
-    slides: "https://canvas.uw.edu/files/46727857/download?download_frd=1"
-    title: "Research Topic: Interacting with Code"
-    guest: "[Andrew Ko](https://faculty.washington.edu/ajko/)"
-    reading_framing:
-      - |
-        Andrew J. Ko, Brad A. Myers, and Htet Htet Aung. [Six Learning Barriers in End-User Programming Systems]({{ page.paper_url.ko2004 }}). VL/HCC 2004.
-    reading_instances:
-      - |
-        Andrew Bragdon, Robert Zeleznik, Steven P. Reiss, Suman Karumuri, william Cheung, Joshua Kaplan, Christopher Coleman, Ferdi Adeputra, Joseph J. LaViola, Jr. [Code Bubbles: A Working Set-Based Interface for Code Understanding and Maintenance]({{ page.paper_url.bragdon2010 }}). CHI 2010.
-      - |
-        Lea Verou, Amy X. Zhang, David R. Karger. [Mavo: Creating Interactive Data-Driven Web Applications by Authoring HTML]({{ page.paper_url.verou2016 }}). UIST 2016.
+  - date: Thu Oct 16
+    title: "Research Topic: TBD"
+    collapse: False
     content:
       - |
         <div class="alert" markdown="block">
-        James Away
+        James Away for UIST 2018
         </div>
-        
-  - date: Thu Feb 1
-    collapse: True
-    slides: "https://canvas.uw.edu/files/46727861/download?download_frd=1"
-    title: "Research Topic: Information and Communication Technologies and Development"
-    guest: "[Kurtis Heimerl](http://kurti.sh/)"
-    reading_framing:
-      - |
-        Eric Brewer, Michael Demmer, Bowei Du, Melissa Ho, Matthew Kam, Sergiu Nedevschi, Joyojeet Pal, Rabin Patra, Sonesh Surana, and Kevin Fall. [The Case for Technology in Developing Regions]({{ page.paper_url.brewer2005 }}). IEEE Computer Magazine 2005.
-    reading_instances:
-      - |
-        Thomas N. Smyth. [Where There’s a Will There’s a Way: Mobile Media Sharing in Urban India]({{ page.paper_url.smyth2010 }}). CHI 2010.
-      - |
-        Lilly Irani, Janet Vertesi, Paul Dourish, Kavita Philip, and Rebecca E. Grinter. [Postcolonial Computing: A Lens on Design and Development]({{ page.paper_url.irani2010 }}). CHI 2010.
+
+  - date: Thu Oct 18
+    title: "Research Topic: TBD"
+    collapse: False
     content:
       - |
         <div class="alert" markdown="block">
-        James Away
+        James Away for UIST 2018
         </div>
-        
-  - date: Tue Feb 6
-    collapse: True
+
+  - date: Tue Oct 23
+    title: "Research Topic: TBD"
+    collapse: False
+    content:
+
+  - date: Thu Oct 25
+    title: "Research Topic: TBD"
+    collapse: False
+    content:
+
+  - date: Tue Oct 30
+    collapse: False
     title: "Project Progress Presentations"
     content:
       - |
         <div class="alert" markdown="block">
-        Class Will Start at 10:30 to Accommodate Presentations
+        Class Will Start at 9:00 to Accommodate Presentations
         </div>
       - |
         <div class="major" markdown="block">
@@ -464,115 +396,53 @@ calendar:
         </div>
       - |
         ### Submission
-        
+
         Submit your document in PDF format:
 
-        <{{ page.canvas.milestone1_doc }}>
+        `<{{ page.canvas.milestone1_doc }}>`
       - |
         Submit your presentation in PDF, PPT, or PPTX format:
 
-        <{{ page.canvas.milestone1_pres }}>
-        
-  - date: Thu Feb 8
-    collapse: True
-    slides: "https://canvas.uw.edu/files/46786993/download?download_frd=1"
-    title: "Research Topic: Modeling Touch Input"
-    guest: "[Christian Holz](http://www.christianholz.net/)"
-    # discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3788839"
-    reading_framing:
-      - |
-        Bill Buxton. [Touch, Gesture, & Marking]({{ page.paper_url.buxton1995 }}). Book chapter 7 in Ronald M. Baecker, Jonathan Grudin, Bill Buxton, and Saul Greenberg, Readings in Human-Computer Interaction: Toward the Year 2000. 1995.
-    reading_instances:
-      - |
-        Christian Holz, Patrick Baudisch. [The Generalized Perceived Input Point Model and How to Double Touch Accuracy by Extracting Fingerprints]({{ page.paper_url.holz2010 }}). CHI 2010.
-      - |
-        Daniel Vogel, Patrick Baudisch. [Shift: A Technique for Operating Pen-Based Interfaces Using Touch]( {{ page.paper_url.vogel2007 }}). CHI 2007.
+        `<{{ page.canvas.milestone1_pres }}>`
 
-  - date: Tue Feb 13
-    collapse: True
-    slides: "https://canvas.uw.edu/files/47649001/download?download_frd=1"
-    title: "Research Topic: Context-Aware Interaction"
-    guest: "[Anind Dey](https://ischool.uw.edu/people/faculty/profile/anind)"
-    reading_framing:
-      - |
-        Daniel Salber, Anind K. Dey, Gregory D. Abowd. [The Context Toolkit: Aiding the Development of Context-Enabled Applications]({{ page.paper_url.salber1999 }}). CHI 1999.
-    reading_instances:
-      - |
-        Nikola Banovic, Anqi Wang, Yanfeng Jin, Christie Chang, Julian Ramos, Anind K. Dey, Jennifer Mankoff. [Leveraging Human Routine Models to Detect and Generate Human Behaviors]({{ page.paper_url.banovic2017 }}). CHI 2017.
-      - |
-        Sangwon Bae, Denzil Ferreira, Brian Suffoletto, Juan C. Puyana, Ryan Kurtz, Tammy Chung, Anind K. Dey. [Detecting Drinking Episodes in Young Adults Using Smartphone-based Sensors]( {{ page.paper_url.bae2017 }}). IMWUT 2017.
 
-  - date: Thu Feb 15
-    collapse: True
-    slides: "https://canvas.uw.edu/files/47120073/download?download_frd=1"
-    title: "Research Topic: Human Perception and Its Manipulation"
-    guest: "[Andy Wilson](https://www.microsoft.com/en-us/research/people/awilson/)"
-    reading_framing:
-      - |
-        Stephen L. Macknik, Mac King, James Randi, Apollo Robbins, Teller, John Thompson, Susana Martinez-Conde. [Attention And Awareness in Stage Magic: Turning Tricks into Research]({{ page.paper_url.macknik2008 }}). Nature Reviews Neuroscience 2008.
-    reading_instances:
-      - |
-        Mahdi Azmandian, Mark Hancock, Hrvoje Benko, Eyal Ofek, Andrew D. Wilson. [Haptic Retargeting: Dynamic Repurposing of Passive Haptics for Enhanced Virtual Reality Experiences]({{ page.paper_url.azmandian2016 }}). CHI 2016.
-      - |
-        Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association]({{ page.paper_url.wilson2014 }}). ICMI 2014.
-
-  - date:  Sun Feb 18
-    collapse: True
-    title: Statistics Lab Due 
+  - date: Thu Nov 1
+    title: "Research Topic: TBD"
+    collapse: False
     content:
-      - |
-        <div class="major" markdown="block">
-        Due: [Statistics Lab]({{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip) 
-        </div>
-      - |
-        ### Submission
-        
-        Submit your ZIP file:
 
-        <{{ page.canvas.stats }}>
+  - date: Tue Nov 6
+    title: "Research Topic: TBD"
+    collapse: False
+    content:
 
-  - date: Tue Feb 20
-    collapse: True
-    slides: "https://canvas.uw.edu/files/47022090/download?download_frd=1"
-    title: "Research Topic: Accessibility"
-    guest: "[Leah Findlater](https://faculty.washington.edu/leahkf/)"
-    reading_framing:
-      - |
-        Jacob O. Wobbrock, Shaun K. Kane, Krzysztof Z. Gajos, Susumu Harada, Jon Froehlich. [Ability-Based Design: Concept, Principles and Examples]({{ page.paper_url.wobbrock2011 }}). TACCESS 2011.
-    reading_instances:
-      - |
-        Jeffrey P Bigham, Chandrika Jayant, Hanjie Ji, Greg Little, Andrew Miller, Robert C Miller, Robin Miller, Aubrey Tatarowicz, Brandyn White, Samual White, Tom Yeh. [VizWiz: Nearly Real-time Answers to Visual Questions]({{ page.paper_url.bigham2010 }}). UIST 2010.
-      - |
-        Alisha Pradhan, Kanika Mehta, Leah Findlater. [“Accessibility Came by Accident”: Use of Voice-Controlled Intelligent Personal Assistants by People with Disabilities]( {{ page.paper_url.pradhan2018 }}). CHI 2018 (To Appear).
+  - date: Thu Nov 8
+    title: "Research Topic: TBD"
+    collapse: False
+    content:
 
-    
-  - date: Thu Feb 22
-    collapse: True
-    slides: "https://canvas.uw.edu/files/47083080/download?download_frd=1"
-    title: "Research Topic: Designing Creativity Tools for Children"
-    guest: "[Jon Froehlich](https://www.cs.washington.edu/people/faculty/jonf)"
-    reading_framing:
-      - |
-        Mitchel Resnick, Brian Silverman. [Some Reflections on Designing Construction Kits for Kids]({{ page.paper_url.resnick2005 }}). IDC 2005. 
-    reading_instances:
-      - |
-        Majeed Kazemitabaar, Jason McPeak, Alexander Jiao, Liang He, Thomas Outing, Jon E. Froehlich. [MakerWear: A Tangible Approach to Interactive Wearable Creation for Children]({{ page.paper_url.kazemitabaar2017 }}). CHI 2017.
-      - |
-        Mitchel Resnick, John Maloney, Andrés Monroy-Hernández, Natalie Rusk, Evelyn Eastmond, Karen Brennan, Amon Millner, Eric Rosenbaum, Jay Silver, Brian Silverman, and Yasmin Kafai. [Scratch: Programming for All]({{ page.paper_url.resnick2009 }}). Communications of the ACM 2009. 
-    reading_resources:
-      - |
-        Mitchel Resnick, Robbie Berg, Michael Eisenberg. [Beyond Black Boxes: Bringing Transparency and Aesthetics Back to Scientific Investigation]({{ page.paper_url.resnick2000 }}). Journal of the Learning Sciences 2000.
-      - |
-        [MakerWear: A Tangible Approach to Interactive Wearable Creation for Children](https://www.youtube.com/watch?v=14Fa_VOJHIA&feature=youtu.be)
+  - date: Tue Nov 13
+    title: "Research Topic: TBD"
+    collapse: False
+    content:
 
-    
-  - date: Tue Feb 27
-    collapse: True
+  - date: Thu Nov 15
+    title: "Research Topic: TBD"
+    collapse: False
+    content:
+
+  - date: Tue Nov 20
+    title: "Research Topic: TBD"
+    collapse: False
+    content:
+
+  - date: Tue Nov 27
+    collapse: False
     title: "Project Progress Presentations"
     content:
       - |
         <div class="alert" markdown="block">
-        Class Will Start at 10:30 to Accommodate Presentations
+        Class Will Start at 9:00 to Accommodate Presentations
         </div>
       - |
         <div class="major" markdown="block">
@@ -580,60 +450,34 @@ calendar:
         </div>
       - |
         ### Submission
-        
+
         Submit your document in PDF format:
 
-        <{{ page.canvas.milestone2_doc }}>
+        `<{{ page.canvas.milestone2_doc }}>`
 
         Submit your presentation in PDF, PPT, or PPTX format:
 
-        <{{ page.canvas.milestone2_pres }}>
-        
-  - date: Thu Mar 1
-    collapse: True
-    slides: "https://canvas.uw.edu/files/47592150/download?download_frd=1"
-    title: "Research Topic: Uncertainty in User Interfaces"
-    guest: "[Jennifer Mankoff](https://www.cs.washington.edu/people/faculty/jmankoff)"
-    reading_framing:
-      - |
-        Jeffrey Heer, Nathaniel S. Good, Ana Ramirez, Marc Davis, Jennifer Mankoff. [Presiding Over Accidents: System Direction of Human Action]({{page.paper_url.heer2004}}). CHI 2004.
-    reading_instances:
-      - |
-        Jeeeun Kim, Anhong Guo, Tom Yeh, Scott E. Hudson, Jennifer Mankoff. [Understanding Uncertainty in Measurement and Accommodating its Impact in 3D Modeling and Printing]({{page.paper_url.kim2017}}). DIS 2017.
-      - |
-        Julia Schwarz, Jennifer Mankoff, Scott E. Hudson. [An Architecture for Generating Interactive Feedback in Probabilistic User Interfaces]({{page.paper_url.schwarz2015}}). CHI 2015.
-
-  - date: Tue Mar 6
-    collapse: True
-    slides: "https://canvas.uw.edu/files/47492525/download?download_frd=1"
-    title: "Research Topic: Interface Toolkits"
-    reading_framing:
-      - |
-        Brad Myers, Scott E. Hudson, Randy Pausch. [Past, Present, and Future of User Interface Software Tools]({{page.paper_url.myers2000}}). TOCHI 2000.
-    reading_instances:
-      - |
-        Michael Bostock, Vadim Ogievetsky, Jeffrey Heer. [D<sup>3</sup>: Data-Driven Documents]({{page.paper_url.bostock2011}}). InfoVis 2011.
-      - |
-        Morgan Dixon, James Fogarty. [Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure]({{page.paper_url.dixon2010}}). CHI 2010.
-
-  - date: Thu Mar 8
-    collapse: True
-    slides: "https://canvas.uw.edu/files/47558998/download?download_frd=1"
-    title: "Research Topic: Critical Inquiry in HCI and Design"
-    guest: "[Daniela Rosner](http://www.danielarosner.com/)"
-    reading_framing:
-      - |
-        Daniela K. Rosner. [Introduction: Why Fabulate Design]({{page.paper_url.rosnerintro}}). Critical Fabulations: Reworking the Methods and Margins of Design (2018).
-    reading_instances:
-      - |
-        Daniela K. Rosner. [Chap 4: Approaching Design as Critical Fabulations]({{page.paper_url.rosnerchap4}}). Critical Fabulations: Reworking the Methods and Margins of Design (2018).
-      - |
-        Daniela K. Rosner. [Chap 5: Fabulating in Practice]({{page.paper_url.rosnerchap5}}). Critical Fabulations: Reworking the Methods and Margins of Design (2018).
+        `<{{ page.canvas.milestone2_pres }}>`
 
 
-  - date:  Mon Mar 12
-    collapse: True
-    title: Final Project Due
+  - date: Thu Nov 29
+    title: "Research Topic: TBD"
+    collapse: False
+    content:
+
+  - date: Tue Dec 4
+    title: "Research Topic: TBD"
+    collapse: False
+    content:
+
+  - date: Thu Dec 6
+    title: "Research Topic: TBD"
+    collapse: False
+    content:
+
+  - date:  Mon Dec 10
+    collapse: False
+    title: "Final Project Due"
     content:
       - |
         <div class="major" markdown="block">
@@ -644,9 +488,9 @@ calendar:
         
         Submit your document in PDF format:
 
-        <{{ page.canvas.final_rep }}>
+        `<{{ page.canvas.final_rep }}>`
 
-  - date:  Fri Mar 16
+  - date:  Thu Dec 13
     title: Exam Due 
     content:
       - |
@@ -658,11 +502,215 @@ calendar:
         
         Submit your document in PDF format:
 
-        <{{ page.canvas.exam }}>
-  
+        `<{{ page.canvas.exam }}>`
 
+#  - date: Thu Jan 18
+#    collapse: False
+#    title: "Research Topic: Human Performance with Computing Systems"
+#    guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
+#    reading_framing:
+#      - |
+#        I. S. MacKenzie. [Fitts’ Law as a Research and Design Tool in Human-Computer Interaction]({{ page.paper_url.mackenzie1992 }}). Human-Computer Interaction 7, 1. 1992.
+#    reading_instances:
+#      - |
+#        Johnny Accot, Shumin Zhai. [Beyond Fitts’ Law: Models for Trajectory-Based HCI Tasks]({{ page.paper_url.accot1997 }}). CHI 1997.
+#      - |
+#        Georg Apitz, François Guimbretière. [CrossY: A Crossing-Based Drawing Application]({{ page.paper_url.apitz2004 }}). UIST 2004.
+#    reading_resources:
+#      - |
+#        I. S. MacKenzie, Tatu Kauppinen, Miika Silfverberg. [Accuracy Measures for Evaluating Computer Pointing Devices]({{ page.paper_url.mackenzie2001 }}). CHI 2001.
+#      - |
+#        Jacob O. Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law]({{ page.paper_url.wobbrock2008 }}). CHI 2008.
+#      - |
+#        [FittsStudy Software](https://depts.washington.edu/madlab/proj/fittsstudy/).
+#
+#  - date: Tue Jan 23
+#    collapse: False
+#    title: "Research Topic: Design Tools"
+#    reading_framing:
+#      - |
+#        Mark W. Newman, James Lin, Jason I. Hong, James A. Landay. [DENIM: An Informal Web Site Design Tool Inspired by Observations of Practice]({{ page.paper_url.newman2003 }}). Human-Computer Interaction Journal, 2003.
+#    reading_instances:
+#      - |
+#        Steven P. Dow, Alana Glassco, Jonathan Kass, Melissa Schwarz, Daniel L. Schwartz, Scott R. Klemmer. [Parallel Prototyping Leads to Better Design Results, More Divergence, and Increased Self-Efficacy]({{ page.paper_url.dow2010 }}). TOCHI 2010.
+#      - |
+#        Björn Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, Jennifer Gee. [Reflective Physical Prototyping through Integrated Design, Test, and Analysis]({{ page.paper_url.hartmann2006 }}). UIST 2006.
+#
+#  - date: Thu Jan 25
+#    collapse: False
+#    title: "Experimental Design and Analysis"
+#    content:
+#      - |
+#        <div class="major" markdown="block">
+#        Assigned: [Statistics Lab]({{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip)
+#        </div>
+#      - |
+#        No Readings Assigned
+#
+#  - date: Tue Jan 30
+#    collapse: False
+#    title: "Research Topic: Interacting with Code"
+#    guest: "[Andrew Ko](https://faculty.washington.edu/ajko/)"
+#    reading_framing:
+#      - |
+#        Andrew J. Ko, Brad A. Myers, and Htet Htet Aung. [Six Learning Barriers in End-User Programming Systems]({{ page.paper_url.ko2004 }}). VL/HCC 2004.
+#    reading_instances:
+#      - |
+#        Andrew Bragdon, Robert Zeleznik, Steven P. Reiss, Suman Karumuri, william Cheung, Joshua Kaplan, Christopher Coleman, Ferdi Adeputra, Joseph J. LaViola, Jr. [Code Bubbles: A Working Set-Based Interface for Code Understanding and Maintenance]({{ page.paper_url.bragdon2010 }}). CHI 2010.
+#      - |
+#        Lea Verou, Amy X. Zhang, David R. Karger. [Mavo: Creating Interactive Data-Driven Web Applications by Authoring HTML]({{ page.paper_url.verou2016 }}). UIST 2016.
+#    content:
+#      - |
+#        <div class="alert" markdown="block">
+#        James Away
+#        </div>
+#
+#  - date: Thu Feb 1
+#    collapse: False
+#    title: "Research Topic: Information and Communication Technologies and Development"
+#    guest: "[Kurtis Heimerl](http://kurti.sh/)"
+#    reading_framing:
+#      - |
+#        Eric Brewer, Michael Demmer, Bowei Du, Melissa Ho, Matthew Kam, Sergiu Nedevschi, Joyojeet Pal, Rabin Patra, Sonesh Surana, and Kevin Fall. [The Case for Technology in Developing Regions]({{ page.paper_url.brewer2005 }}). IEEE Computer Magazine 2005.
+#    reading_instances:
+#      - |
+#        Thomas N. Smyth. [Where There’s a Will There’s a Way: Mobile Media Sharing in Urban India]({{ page.paper_url.smyth2010 }}). CHI 2010.
+#      - |
+#        Lilly Irani, Janet Vertesi, Paul Dourish, Kavita Philip, and Rebecca E. Grinter. [Postcolonial Computing: A Lens on Design and Development]({{ page.paper_url.irani2010 }}). CHI 2010.
+#    content:
+#      - |
+#        <div class="alert" markdown="block">
+#        James Away for UIST 2018
+#        </div>
+#
+#  - date: Thu Feb 8
+#    collapse: False
+#    title: "Research Topic: Modeling Touch Input"
+#    guest: "[Christian Holz](http://www.christianholz.net/)"
+#    # discussion: "https://canvas.uw.edu/courses/1138154/discussion_topics/3788839"
+#    reading_framing:
+#      - |
+#        Bill Buxton. [Touch, Gesture, & Marking]({{ page.paper_url.buxton1995 }}). Book chapter 7 in Ronald M. Baecker, Jonathan Grudin, Bill Buxton, and Saul Greenberg, Readings in Human-Computer Interaction: Toward the Year 2000. 1995.
+#    reading_instances:
+#      - |
+#        Christian Holz, Patrick Baudisch. [The Generalized Perceived Input Point Model and How to Double Touch Accuracy by Extracting Fingerprints]({{ page.paper_url.holz2010 }}). CHI 2010.
+#      - |
+#        Daniel Vogel, Patrick Baudisch. [Shift: A Technique for Operating Pen-Based Interfaces Using Touch]( {{ page.paper_url.vogel2007 }}). CHI 2007.
+#
+#  - date: Tue Feb 13
+#    collapse: False
+#    title: "Research Topic: Context-Aware Interaction"
+#    guest: "[Anind Dey](https://ischool.uw.edu/people/faculty/profile/anind)"
+#    reading_framing:
+#      - |
+#        Daniel Salber, Anind K. Dey, Gregory D. Abowd. [The Context Toolkit: Aiding the Development of Context-Enabled Applications]({{ page.paper_url.salber1999 }}). CHI 1999.
+#    reading_instances:
+#      - |
+#        Nikola Banovic, Anqi Wang, Yanfeng Jin, Christie Chang, Julian Ramos, Anind K. Dey, Jennifer Mankoff. [Leveraging Human Routine Models to Detect and Generate Human Behaviors]({{ page.paper_url.banovic2017 }}). CHI 2017.
+#      - |
+#        Sangwon Bae, Denzil Ferreira, Brian Suffoletto, Juan C. Puyana, Ryan Kurtz, Tammy Chung, Anind K. Dey. [Detecting Drinking Episodes in Young Adults Using Smartphone-based Sensors]( {{ page.paper_url.bae2017 }}). IMWUT 2017.
+#
+#  - date: Thu Feb 15
+#    collapse: False
+#    title: "Research Topic: Human Perception and Its Manipulation"
+#    guest: "[Andy Wilson](https://www.microsoft.com/en-us/research/people/awilson/)"
+#    reading_framing:
+#      - |
+#        Stephen L. Macknik, Mac King, James Randi, Apollo Robbins, Teller, John Thompson, Susana Martinez-Conde. [Attention And Awareness in Stage Magic: Turning Tricks into Research]({{ page.paper_url.macknik2008 }}). Nature Reviews Neuroscience 2008.
+#    reading_instances:
+#      - |
+#        Mahdi Azmandian, Mark Hancock, Hrvoje Benko, Eyal Ofek, Andrew D. Wilson. [Haptic Retargeting: Dynamic Repurposing of Passive Haptics for Enhanced Virtual Reality Experiences]({{ page.paper_url.azmandian2016 }}). CHI 2016.
+#      - |
+#        Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association]({{ page.paper_url.wilson2014 }}). ICMI 2014.
+#
+#  - date:  Sun Feb 18
+#    collapse: False
+#    title: Statistics Lab Due
+#    content:
+#      - |
+#        <div class="major" markdown="block">
+#        Due: [Statistics Lab]({{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip)
+#        </div>
+#      - |
+#        ### Submission
+#
+#        Submit your ZIP file:
+#
+#        <{{ page.canvas.stats }}>
+#
+#  - date: Tue Feb 20
+#    collapse: False
+#    title: "Research Topic: Accessibility"
+#    guest: "[Leah Findlater](https://faculty.washington.edu/leahkf/)"
+#    reading_framing:
+#      - |
+#        Jacob O. Wobbrock, Shaun K. Kane, Krzysztof Z. Gajos, Susumu Harada, Jon Froehlich. [Ability-Based Design: Concept, Principles and Examples]({{ page.paper_url.wobbrock2011 }}). TACCESS 2011.
+#    reading_instances:
+#      - |
+#        Jeffrey P Bigham, Chandrika Jayant, Hanjie Ji, Greg Little, Andrew Miller, Robert C Miller, Robin Miller, Aubrey Tatarowicz, Brandyn White, Samual White, Tom Yeh. [VizWiz: Nearly Real-time Answers to Visual Questions]({{ page.paper_url.bigham2010 }}). UIST 2010.
+#      - |
+#        Alisha Pradhan, Kanika Mehta, Leah Findlater. [“Accessibility Came by Accident”: Use of Voice-Controlled Intelligent Personal Assistants by People with Disabilities]( {{ page.paper_url.pradhan2018 }}). CHI 2018 (To Appear).
+#
+#
+#  - date: Thu Feb 22
+#    collapse: False
+#    title: "Research Topic: Designing Creativity Tools for Children"
+#    guest: "[Jon Froehlich](https://www.cs.washington.edu/people/faculty/jonf)"
+#    reading_framing:
+#      - |
+#        Mitchel Resnick, Brian Silverman. [Some Reflections on Designing Construction Kits for Kids]({{ page.paper_url.resnick2005 }}). IDC 2005.
+#    reading_instances:
+#      - |
+#        Majeed Kazemitabaar, Jason McPeak, Alexander Jiao, Liang He, Thomas Outing, Jon E. Froehlich. [MakerWear: A Tangible Approach to Interactive Wearable Creation for Children]({{ page.paper_url.kazemitabaar2017 }}). CHI 2017.
+#      - |
+#        Mitchel Resnick, John Maloney, Andrés Monroy-Hernández, Natalie Rusk, Evelyn Eastmond, Karen Brennan, Amon Millner, Eric Rosenbaum, Jay Silver, Brian Silverman, and Yasmin Kafai. [Scratch: Programming for All]({{ page.paper_url.resnick2009 }}). Communications of the ACM 2009.
+#    reading_resources:
+#      - |
+#        Mitchel Resnick, Robbie Berg, Michael Eisenberg. [Beyond Black Boxes: Bringing Transparency and Aesthetics Back to Scientific Investigation]({{ page.paper_url.resnick2000 }}). Journal of the Learning Sciences 2000.
+#      - |
+#        [MakerWear: A Tangible Approach to Interactive Wearable Creation for Children](https://www.youtube.com/watch?v=14Fa_VOJHIA&feature=youtu.be)
+#
+#
+#  - date: Thu Mar 1
+#    collapse: False
+#    title: "Research Topic: Uncertainty in User Interfaces"
+#    guest: "[Jennifer Mankoff](https://www.cs.washington.edu/people/faculty/jmankoff)"
+#    reading_framing:
+#      - |
+#        Jeffrey Heer, Nathaniel S. Good, Ana Ramirez, Marc Davis, Jennifer Mankoff. [Presiding Over Accidents: System Direction of Human Action]({{page.paper_url.heer2004}}). CHI 2004.
+#    reading_instances:
+#      - |
+#        Jeeeun Kim, Anhong Guo, Tom Yeh, Scott E. Hudson, Jennifer Mankoff. [Understanding Uncertainty in Measurement and Accommodating its Impact in 3D Modeling and Printing]({{page.paper_url.kim2017}}). DIS 2017.
+#      - |
+#        Julia Schwarz, Jennifer Mankoff, Scott E. Hudson. [An Architecture for Generating Interactive Feedback in Probabilistic User Interfaces]({{page.paper_url.schwarz2015}}). CHI 2015.
+#
+#  - date: Tue Mar 6
+#    collapse: False
+#    title: "Research Topic: Interface Toolkits"
+#    reading_framing:
+#      - |
+#        Brad Myers, Scott E. Hudson, Randy Pausch. [Past, Present, and Future of User Interface Software Tools]({{page.paper_url.myers2000}}). TOCHI 2000.
+#    reading_instances:
+#      - |
+#        Michael Bostock, Vadim Ogievetsky, Jeffrey Heer. [D<sup>3</sup>: Data-Driven Documents]({{page.paper_url.bostock2011}}). InfoVis 2011.
+#      - |
+#        Morgan Dixon, James Fogarty. [Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure]({{page.paper_url.dixon2010}}). CHI 2010.
+#
+#  - date: Thu Mar 8
+#    collapse: False
+#    title: "Research Topic: Critical Inquiry in HCI and Design"
+#    guest: "[Daniela Rosner](http://www.danielarosner.com/)"
+#    reading_framing:
+#      - |
+#        Daniela K. Rosner. [Introduction: Why Fabulate Design]({{page.paper_url.rosnerintro}}). Critical Fabulations: Reworking the Methods and Margins of Design (2018).
+#    reading_instances:
+#      - |
+#        Daniela K. Rosner. [Chap 4: Approaching Design as Critical Fabulations]({{page.paper_url.rosnerchap4}}). Critical Fabulations: Reworking the Methods and Margins of Design (2018).
+#      - |
+#        Daniela K. Rosner. [Chap 5: Fabulating in Practice]({{page.paper_url.rosnerchap5}}). Critical Fabulations: Reworking the Methods and Margins of Design (2018).
+#
 #  - date:  Thu Apr 13
-#    collapse: true
+#    collapse: False
 #    slides: "https://canvas.uw.edu/files/42010327/download?download_frd=1"
 #    title: "Research Topic: Information and Communication Technologies and Development"
 #    guest: "[Kurtis Heimerl](http://kurti.sh/)"
@@ -677,7 +725,7 @@ calendar:
 #        Thomas N. Smyth. [Where There's a Will There's a Way: Mobile Media Sharing in Urban India]( {{ page.paper_url.smyth2010}}). CHI 2010.
 
 #  - date:  Tue May 2
-#    collapse: true
+#    collapse: False
 #    title: "Research Topic: Accessibility"
 #    slides: "https://canvas.uw.edu/files/42564719/download?download_frd=1"
 #    guest: "[Meredith Ringel Morris](https://www.microsoft.com/en-us/research/people/merrie/)"
@@ -696,7 +744,7 @@ calendar:
 #        </div>
 
 #  - date:  Tue May 16
-#    collapse: true
+#    collapse: False
 #    title: "Research Topic: Human-Centered Machine Learning"
 #    guest: "[Saleema Amershi](https://research.microsoft.com/en-us/um/people/samershi/)"
 #    slides: "https://canvas.uw.edu/files/42552212/download?download_frd=1"
@@ -709,12 +757,9 @@ calendar:
 #        Jerry Alan Fails, Dan R. Olsen, Jr. [Interactive Machine Learning.]({{ page.paper_url.fails2003 }}) IUI 2003.
 #      - |
 #        Justin Cheng, Michael S. Bernstein. [Flock: Hybrid Crowd-Machine Learning Classifiers.]({{ page.paper_url.cheng2015}}) CSCW 2015.
-##    reading_resources:
-##      - |
-##      - |
 
 #  - date:  Fri May 19
-#    collapse: True
+#    collapse: False
 #    title: Statistics Lab Due
 #    content:
 #      - |
@@ -723,7 +768,7 @@ calendar:
 #        </div>
 
 #  - date:  Thu May 25
-#    collapse: True
+#    collapse: False
 #    title: "Research Topic: Interacting with Cameras"
 #    slides: "https://canvas.uw.edu/files/42845204/download?download_frd=1"
 #    guest: "[Hrvoje Benko](https://www.microsoft.com/en-us/research/people/benko/)"

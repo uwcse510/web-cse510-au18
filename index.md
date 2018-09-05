@@ -2,12 +2,11 @@
 layout: base/bar/bar-sidebar-none
 title: Course Overview
 
-canvas_url: https://canvas.uw.edu/courses/1187533/discussion_topics
+canvas_url:
 
-canvas_stats_submit: https://canvas.uw.edu/courses/1187533/assignments/4073435
+canvas_stats_submit:
 
-canvas_exam: 
-canvas_exam_submit: https://canvas.uw.edu/courses/1187533/assignments/4073437
+canvas_exam_submit:
 ---
 
 <div class="alert alert-danger" markdown="1">
@@ -36,7 +35,7 @@ We will emphasize open discussion and feedback in all aspects of the course.
 
 __Contact__: Email all instructors at cse510-staff [at] cs.washington.edu
 
-__Class Time & Location__: Tuesdays & Thursdays, 11:00-12:20, MGH 287
+__Class Time & Location__: Tuesdays & Thursdays, 10:00-11:20, `MUE 153`
 
 __Office Hours__: By appointment, and as scheduled for project meetings.
 
@@ -110,7 +109,7 @@ Potential topics for discussion are:
 
 Discussions will be coordinated using Canvas, with a post for each day:
 
-<{{ page.canvas_url }}>
+{% if page.canvas_url != nil %}<{{ page.canvas_url }}>{% else %}`Link to be added`{% endif %}
 
 Reading reports are due the night before each class meeting.
 This ensures time to review discussion before class the next morning.
@@ -127,14 +126,13 @@ Dates are also linked from the course calendar.
 
 Some sample project ideas, gathered from faculty and researchers, have been made available here:
 
-<https://canvas.uw.edu/courses/1187533/discussion_topics/4094422>
+`<https://canvas.uw.edu/courses/1187533/discussion_topics/4094422>`
 
 You can also use that discussion identify potential project partners and to post your own ideas.
 
 ## Statistics Lab
 
-To aid in developing necessary skills, you will complete a statistics lab. 
-We recommend using [R](//www.r-project.org/) for this lab.
+To aid in developing necessary skills, you will complete a small statistics lab using [R](//www.r-project.org/).
 The lab will walk you through analyzing an example data set,
 and you will then analyze two datasets from published research papers.
 
@@ -146,7 +144,7 @@ experiments based in designs you might later find useful.
 Please consider this assignment in the context of the material covered in lecture, as not all of it is repeated here.
 
 In addition to the lecture material and the contents of this assignment,
-you might benefit from working through the first four sections of
+you might benefit from working through all or part of
 Jacob Wobbrock's independent study in Practical Statistics for Human-Computer Interaction.
 
 <http://depts.washington.edu/aimgroup/proj/ps4hci/>
@@ -155,15 +153,15 @@ Jacob Wobbrock's independent study in Practical Statistics for Human-Computer I
 
 The assignment is available for download:
 
-<{{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip>
+`<{{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip>`
 
 ### Submission
 
-Due: Uploaded by end of day Sunday, February 18, 2018.
+`Due: Uploaded by end of day Sunday, February 18, 2018.`
 
 Submit a ZIP archive including your document in PDF format and any additional files:
 
-<{{page.canvas_stats_submit}}>
+{% if page.canvas_stats_submit != nil %}<{{ page.canvas_stats_submit }}>{% else %}`Link to be added`{% endif %}
 
 ## Exam
 
@@ -174,17 +172,11 @@ about course concepts. If you have kept pace with the readings, you will find th
 You may reference any of the articles, slides, notes, discussion posts, or other material readily available on the web.
 You may consult the course staff with any questions, but this is strictly an individual assignment (i.e., do not discuss it with others).
 
-<!-- ### Download
-
-The exam is available for download:
-
-`<{{ page.canvas_exam }}>` -->
-
 ### Submission
 
-Due: Uploaded by end of day Friday, March 16, 2018.
+`Due: Uploaded by end of day Friday, March 16, 2018.`
 
-<{{ page.canvas_exam_submit }}>
+{% if page.canvas_exam_submit != nil %}<{{ page.canvas_exam_submit }}>{% else %}`Link to be added`{% endif %}
 
 ## Grading
 
@@ -207,4 +199,4 @@ Final project report grading will then consider overall execution.
 
 This course website lives on GitHub:
 
-<https://github.com/uwcse510/web-cse510-wi18>
+<https://github.com/uwcse510/web-cse510-au18>
