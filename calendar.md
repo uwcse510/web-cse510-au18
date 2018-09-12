@@ -107,8 +107,8 @@ canvas:
 
 calendar:
   - date: Thu Sep 27
-    title: "Course Overview and HCI History"
     collapse: False
+    title: "Course Overview and HCI History"
     content:
       - |
         No Readings Assigned
@@ -117,8 +117,8 @@ calendar:
         Jonathan Grudin. [A Moving Target - The Evolution of Human-Computer Interaction]({{ page.paper_url.grudin2012 }}). Book Chapter.
 
   - date: Tue Oct 2
-    title: "Visions of Human-Computer Interaction"
     collapse: False
+    title: "Visions of Human-Computer Interaction"
     content:
       - |
         These "vision" papers challenge a dominant pattern,
@@ -204,21 +204,13 @@ calendar:
         You can and should skim according to your needs.
 
   - date: Tue Oct 4
-    title: "Contributions and Methods in HCI"
     collapse: False
-    content:
+    title: "Contributions in Human-Computer Interaction"
+    reading_framing:
       - |
-        Read the following framing papers:
-
-        <ul class="readings" markdown="block">
-        <li class="paper" markdown="block">
         Jacob O. Wobbrock, Julie A. Kientz. [Research Contributions in Human-Computer Interaction]({{ page.paper_url.wobbrock2016 }}). Interactions, 2016.
-        </li>
-        <li class="paper" markdown="block">
-        James Fogarty. [Code and Contribution in Interactive Systems Research]({{ page.paper_url.fogarty2017 }}). CHI 2017 Workshop on #HCI.Tools: Strategies and Best Practices for Designing, Evaluating, and Sharing Technical HCI Toolkits.
-        </li>
-        </ul>
-
+    content_reading_instances:
+      - |
         Below are examples of recent papers that correspond to Wobbrock's types of research contribution in HCI.
 
         Select two to review, focusing on papers that are most likely to correspond to the contribution style(s) relevant in your project.
@@ -299,37 +291,20 @@ calendar:
 
         No reading report is necessary.
 
+    reading_resources:
+      - |
+        Herbert A. Simon. [The Science of Design: Creating the Artificial]({{ page.paper_url.simon1998 }}). Design Issues Volume 4, Numbers 1 & 2.
+      - |
+        Donald E. Stokes. [Pasteur's Quadrant: Basic Science and Technological Innovation]({{ page.paper_url.stokes1997 }}). Book Chapter.
+
   - date: Tue Oct 9
     collapse: False
-    title: "Project Proposal Presentations / Usability Evaluation Considered Harmful"
+    title: "Project Proposal Presentations"
     content:
-      - |
-        <div class="alert" markdown="block">
-        Class Will Start at 9:00 to Accommodate Presentations
-        </div>
       - |
         <div class="major" markdown="block">
         Due: [Project Proposal]({{ site.baseurl }}/assignments/project.html#proposal)
         </div>
-      - |
-        Read the following:
-
-        <ul class="readings" markdown="block">
-        <li class="paper" markdown="block">
-        Saul Greenberg, Bill Buxton. [Usability Evaluation Considered Harmful (Some of the Time)]({{ page.paper_url.greenberg2008 }}). CHI 2008.
-        </li>
-        </ul>
-
-        Additional optional resources:
-
-        <ul class="paper" markdown="block">
-        <li class="paper" markdown="block">
-        Herbert A. Simon. [The Science of Design: Creating the Artificial]({{ page.paper_url.simon1998 }}). Design Issues Volume 4, Numbers 1 & 2.
-        </li>
-        <li class="paper" markdown="block">
-        Donald E. Stokes. [Pasteur's Quadrant: Basic Science and Technological Innovation]({{ page.paper_url.stokes1997 }}). Book Chapter.
-        </li>
-        </ul>
       - |
         ### Submission
 
@@ -340,23 +315,32 @@ calendar:
         Submit your proposal presentation in PDF, PPT, or PPTX format:
 
         `<{{ page.canvas.proposal_pres }}>`
-      - |
-        ### Non-Standard Reading Format
-
-        Post a reading report in the appropriate thread:
-
-        `<https://canvas.uw.edu/courses/1187533/discussion_topics>`
-
-        Only one paper is assigned, so that will be the focus of your reading report.
 
   - date: Thu Oct 11
-    title: "Research Topic: TBD"
     collapse: False
-    content:
+    title: "Usability Evaluation Considered Harmful"
+    reading_framing:
+      - |
+        Saul Greenberg, Bill Buxton. [Usability Evaluation Considered Harmful (Some of the Time)]({{ page.paper_url.greenberg2008 }}). CHI 2008.
+    reading_instances:
+      - |
+        `add Olsen paper`
+      - |
+        James Fogarty. [Code and Contribution in Interactive Systems Research]({{ page.paper_url.fogarty2017 }}). CHI 2017 Workshop on #HCI.Tools: Strategies and Best Practices for Designing, Evaluating, and Sharing Technical HCI Toolkits.
+#    content:
+#      - |
+#        ### Non-Standard Reading Format
+#
+#        Post a reading report in the appropriate thread:
+#
+#        `<https://canvas.uw.edu/courses/1187533/discussion_topics>`
+#
+#        Only one paper is assigned, so that will be the focus of your reading report.
+
 
   - date: Thu Oct 16
-    title: "Research Topic: TBD"
     collapse: False
+    title: "Research Topic: TBD"
     content:
       - |
         <div class="alert" markdown="block">
@@ -364,8 +348,8 @@ calendar:
         </div>
 
   - date: Thu Oct 18
-    title: "Research Topic: TBD"
     collapse: False
+    title: "Research Topic: TBD"
     content:
       - |
         <div class="alert" markdown="block">
@@ -373,13 +357,13 @@ calendar:
         </div>
 
   - date: Tue Oct 23
-    title: "Research Topic: TBD"
     collapse: False
+    title: "Research Topic: TBD"
     content:
 
   - date: Thu Oct 25
-    title: "Research Topic: TBD"
     collapse: False
+    title: "Research Topic: TBD"
     content:
 
   - date: Tue Oct 30
@@ -388,7 +372,7 @@ calendar:
     content:
       - |
         <div class="alert" markdown="block">
-        Class Will Start at 9:00 to Accommodate Presentations
+        Class May Be 9:30 to 12:00 in CSE 403 to Accommodate Presentations
         </div>
       - |
         <div class="major" markdown="block">
@@ -407,42 +391,37 @@ calendar:
 
 
   - date: Thu Nov 1
-    title: "Research Topic: TBD"
     collapse: False
+    title: "Research Topic: TBD"
     content:
 
   - date: Tue Nov 6
-    title: "Research Topic: TBD"
     collapse: False
+    title: "Research Topic: TBD"
     content:
 
   - date: Thu Nov 8
-    title: "Research Topic: TBD"
     collapse: False
+    title: "Research Topic: TBD"
     content:
 
   - date: Tue Nov 13
-    title: "Research Topic: TBD"
     collapse: False
+    title: "Research Topic: TBD"
     content:
 
   - date: Thu Nov 15
-    title: "Research Topic: TBD"
     collapse: False
+    title: "Research Topic: TBD"
     content:
 
   - date: Tue Nov 20
-    title: "Research Topic: TBD"
-    collapse: False
-    content:
-
-  - date: Tue Nov 27
     collapse: False
     title: "Project Progress Presentations"
     content:
       - |
         <div class="alert" markdown="block">
-        Class Will Start at 9:00 to Accommodate Presentations
+        Class May Be 9:30 to 12:00 in CSE 403 to Accommodate Presentations
         </div>
       - |
         <div class="major" markdown="block">
@@ -459,20 +438,33 @@ calendar:
 
         `<{{ page.canvas.milestone2_pres }}>`
 
+  - date: Mon Nov 26
+    collapse: False
+    title: Statistics Lab Due
+    content:
+      - |
+        <div class="major" markdown="block">
+        Due: [Statistics Lab]({{ site.baseurl }}/index.html#statistics-lab) (due at 11:59am to ensure time for reading)
+        </div>
+
+  - date: Tue Nov 27
+    collapse: False
+    title: "Research Topic: TBD"
+    content:
 
   - date: Thu Nov 29
-    title: "Research Topic: TBD"
     collapse: False
+    title: "Research Topic: TBD"
     content:
 
   - date: Tue Dec 4
-    title: "Research Topic: TBD"
     collapse: False
+    title: "Research Topic: TBD"
     content:
 
   - date: Thu Dec 6
-    title: "Research Topic: TBD"
     collapse: False
+    title: "Research Topic: TBD"
     content:
 
   - date:  Mon Dec 10
@@ -491,7 +483,8 @@ calendar:
         `<{{ page.canvas.final_rep }}>`
 
   - date:  Thu Dec 13
-    title: Exam Due 
+    collapse: False
+    title: Exam Due
     content:
       - |
         <div class="major" markdown="block">
@@ -758,15 +751,6 @@ calendar:
 #      - |
 #        Justin Cheng, Michael S. Bernstein. [Flock: Hybrid Crowd-Machine Learning Classifiers.]({{ page.paper_url.cheng2015}}) CSCW 2015.
 
-#  - date:  Fri May 19
-#    collapse: False
-#    title: Statistics Lab Due
-#    content:
-#      - |
-#        <div class="major" markdown="block">
-#        Due: [Statistics Lab]({{ site.baseurl }}/index.html#statistics-lab)
-#        </div>
-
 #  - date:  Thu May 25
 #    collapse: False
 #    title: "Research Topic: Interacting with Cameras"
@@ -845,9 +829,15 @@ Select one of these to read:
 </div>
 {% endif %}
 
+{% for contentcurrent in daycurrent.content_reading_instances %}
+<div class="directions" markdown="block">
+{{ contentcurrent | liquify }}
+</div>
+{% endfor %}
+
 {% if daycurrent.reading_resources %}
 <div class="directions" markdown="block">
-Additional optional resources:
+### Additional Optional Resources:
 <ul class="paper" markdown="block">
 {% for readingcurrent in daycurrent.reading_resources %}
 <li class="paper" markdown="block">
