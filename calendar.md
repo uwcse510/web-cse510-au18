@@ -181,7 +181,7 @@ calendar:
 
         First, organize into groups of 2 to briefly present one of the above vision papers.
 
-        `<https://docs.google.com/document/d/1-QzEOq3zPusRUW6S31_QAeSpGD8rt13UUYJrVwDKY4Q/edit?usp=sharing>`
+        <https://docs.google.com/document/d/1-QzEOq3zPusRUW6S31_QAeSpGD8rt13UUYJrVwDKY4Q/edit?usp=sharing>
 
         It is critical to remember most people will not have read the paper you are presenting.
         It is therefore your responsibility to explain the vision.

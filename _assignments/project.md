@@ -52,9 +52,9 @@ You can also use that discussion identify potential project partners and to post
 
 ## Samples
 
-Sample project deliverables from prior offerings have been made available here:
+Sample project proposals from prior offerings have been made available here:
 
-`<https://canvas.uw.edu/courses/1187533/files/folder/project_samples>`
+<https://canvas.uw.edu/courses/1249568/files/folder/project_samples>
 
 ## Early Feedback
 
