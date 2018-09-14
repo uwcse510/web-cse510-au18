@@ -2,24 +2,28 @@
 layout: base/bar/bar-sidebar-none
 title: Course Overview
 
-canvas_url:
+canvas_discussion: "https://canvas.uw.edu/courses/1249568/discussion_topics"
 
+stats_due: Uploaded by 11:59am Monday, November 26, 2018
 canvas_stats_submit:
 
+exam_due: Uploaded by 11:59pm Thursday, December 13, 2018
 canvas_exam_submit:
 ---
 
+{% comment %}
 <div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed. All content remains subject to change.
 </div>
+{% endcomment %}
 
 ## Course Description
 
 This course provides an introduction to several major areas of research in Human-Computer Interaction (HCI).
 It is based in a combination of readings and discussion, a small statistics lab, and a self-defined project.
 The course readings will require preparing reports on a combination of historic framing papers and more current results.
-This will help you examine what the HCI community considers a meaningful contribution across a variety of problems, 
-thus helping prepare you to understand and make meaningful contributions in these and other areas of HCI.
+This will help you examine what the HCI community considers a contribution across a variety of problems,
+thus preparing you to understand and make meaningful contributions in these and other areas of HCI.
 
 This course is explicitly not focused on the design methods commonly used in HCI practice.
 We do not assume a strong background in HCI (i.e., there is no undergraduate HCI prerequisite),
@@ -109,10 +113,10 @@ Potential topics for discussion are:
 
 Discussions will be coordinated using Canvas, with a post for each day:
 
-{% if page.canvas_url != nil %}<{{ page.canvas_url }}>{% else %}`Link to be added`{% endif %}
+{% if page.canvas_discussion != nil %}<{{ page.canvas_discussion }}>{% else %}`Link to be added`{% endif %}
 
-Reading reports are due the night before each class meeting.
-This ensures time to review discussion before class the next morning.
+Reading reports are due at 11:59pm the night before each class meeting.
+This ensures time the next morning to review discussion before class.
 Submitting the day of class, just before class, or in class is therefore unacceptable, risking zero credit.
 But feel free to continue a discussion after this, even after class.
 
@@ -124,11 +128,11 @@ A course project will be a major component of your work. Details of the project 
 
 Dates are also linked from the course calendar.
 
-Some sample project ideas, gathered from faculty and researchers, have been made available here:
+`Some sample project ideas, gathered from faculty and researchers, have been made available here:`
 
 `<https://canvas.uw.edu/courses/1187533/discussion_topics/4094422>`
 
-You can also use that discussion identify potential project partners and to post your own ideas.
+`You can also use that discussion identify potential project partners and to post your own ideas.`
 
 ## Statistics Lab
 
@@ -157,7 +161,7 @@ The assignment is available for download:
 
 ### Submission
 
-`Due: Uploaded by end of day Sunday, February 18, 2018.`
+Due: {{ page.stats_due }}.
 
 Submit a ZIP archive including your document in PDF format and any additional files:
 
@@ -174,7 +178,7 @@ You may consult the course staff with any questions, but this is strictly an ind
 
 ### Submission
 
-`Due: Uploaded by end of day Friday, March 16, 2018.`
+Due: {{ page.exam_due }}.
 
 {% if page.canvas_exam_submit != nil %}<{{ page.canvas_exam_submit }}>{% else %}`Link to be added`{% endif %}
 
