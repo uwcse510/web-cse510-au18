@@ -3,44 +3,44 @@ layout: base/bar/bar-sidebar-none
 title: Calendar
 
 paper_url:
-## History
-#  grudin2012:                   https://canvas.uw.edu/files/45688012/download?download_frd=1
-## Visions
-#  bederson1994:                 https://canvas.uw.edu/files/45688023/download?download_frd=1
+# History
+  grudin2012:                   https://canvas.uw.edu/files/50605472/download?download_frd=1
+# Visions
+  bederson1994:                 https://canvas.uw.edu/files/50605437/download?download_frd=1
   bush1945:                     https://theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/
-#  fitts1954:                    https://canvas.uw.edu/files/45688024/download?download_frd=1
-#  hollan1992:                   https://canvas.uw.edu/files/45688026/download?download_frd=1
-#  ishii1997:                    https://canvas.uw.edu/files/45688027/download?download_frd=1
-#  pinhanez2001:                 https://canvas.uw.edu/files/45688017/download?download_frd=1
-#  want1992:                     https://canvas.uw.edu/files/45688019/download?download_frd=1
-#  want2002:                     https://canvas.uw.edu/files/45688020/download?download_frd=1
-#  weiser1991:                   https://canvas.uw.edu/files/45688021/download?download_frd=1
-#  wellner1993:                  https://canvas.uw.edu/files/45688022/download?download_frd=1
+  fitts1954:                    https://canvas.uw.edu/files/50605438/download?download_frd=1
+  hollan1992:                   https://canvas.uw.edu/files/50605440/download?download_frd=1
+  ishii1997:                    https://canvas.uw.edu/files/50605443/download?download_frd=1
+  pinhanez2001:                 https://canvas.uw.edu/files/50605444/download?download_frd=1
+  want1992:                     https://canvas.uw.edu/files/50605446/download?download_frd=1
+  want2002:                     https://canvas.uw.edu/files/50605447/download?download_frd=1
+  weiser1991:                   https://canvas.uw.edu/files/50605448/download?download_frd=1
+  wellner1993:                  https://canvas.uw.edu/files/50605449/download?download_frd=1
   wellner1993_video:            http://www.youtube.com/watch?v=S8lCetZ_57g
   victor2006:                   http://worrydream.com/MagicInk/
-#  horvitz1999:                  https://canvas.uw.edu/files/45770588/download?download_frd=1
-#  hinckley2000:                 https://canvas.uw.edu/files/45770587/download?download_frd=1
-## Contributions and Methods
-#  wobbrock2016:                 https://canvas.uw.edu/files/45687997/download?download_frd=1
-#  fogarty2017:                  https://canvas.uw.edu/files/45688004/download?download_frd=1
-#  artifact_buschek2017:         https://canvas.uw.edu/files/45687998/download?download_frd=1
-#  artifact_kery2017:            https://canvas.uw.edu/files/45687999/download?download_frd=1
-#  dataset_yin2017:              https://canvas.uw.edu/files/45688000/download?download_frd=1
-#  dataset_deka2017:             https://canvas.uw.edu/files/45693284/download?download_frd=1
-#  empirical_abdelrahman2017:    https://canvas.uw.edu/files/45688001/download?download_frd=1
-#  empirical_fan2017:            https://canvas.uw.edu/files/45688002/download?download_frd=1
-#  method_elsden2017:            https://canvas.uw.edu/files/45688006/download?download_frd=1
-#  method_prabhakar2017:         https://canvas.uw.edu/files/45688007/download?download_frd=1
-#  opinion_lazar2017:            https://canvas.uw.edu/files/45688009/download?download_frd=1
-#  opinion_marshall2017:         https://canvas.uw.edu/files/45688010/download?download_frd=1
-#  survey_velt2017:              https://canvas.uw.edu/files/45687993/download?download_frd=1
-#  theory_alkhatib2017:          https://canvas.uw.edu/files/45687994/download?download_frd=1
-#  theory_hornbaek2017:          https://canvas.uw.edu/files/45687995/download?download_frd=1
-#  survey_schlesinger2017:       https://canvas.uw.edu/files/45687992/download?download_frd=1
-## Usability Evaluation Considered Harmful
-#  stokes1997:                   https://canvas.uw.edu/files/45688794/download?download_frd=1
-#  simon1998:                    https://canvas.uw.edu/files/45688793/download?download_frd=1
-#  greenberg2008:                https://canvas.uw.edu/files/45688795/download?download_frd=1
+  horvitz1999:                  https://canvas.uw.edu/files/50605442/download?download_frd=1
+  hinckley2000:                 https://canvas.uw.edu/files/50605439/download?download_frd=1
+# Contributions and Methods
+  wobbrock2016:                 https://canvas.uw.edu/files/50605454/download?download_frd=1
+  artifact_huang2018:           https://canvas.uw.edu/files/50616930/download?download_frd=1
+  artifact_tian2018:            https://canvas.uw.edu/files/50616931/download?download_frd=1
+  dataset_kariryaa2018:         https://canvas.uw.edu/files/50616932/download?download_frd=1
+  dataset_singh2018:            https://canvas.uw.edu/files/50616934/download?download_frd=1
+  empirical_denny2018:          https://canvas.uw.edu/files/50616941/download?download_frd=1
+  empirical_verma2018:          https://canvas.uw.edu/files/50616943/download?download_frd=1
+  method_dingler2018:           https://canvas.uw.edu/files/50616944/download?download_frd=1
+  method_lazar2018:             https://canvas.uw.edu/files/50616945/download?download_frd=1
+  opinion_cockburn2018:         https://canvas.uw.edu/files/50616946/download?download_frd=1
+  opinion_remy2018:             https://canvas.uw.edu/files/50616947/download?download_frd=1
+  stokes1997:                   https://canvas.uw.edu/files/50605463/download?download_frd=1
+  simon1998:                    https://canvas.uw.edu/files/50605456/download?download_frd=1
+  survey_pettersson2018:        https://canvas.uw.edu/files/50616948/download?download_frd=1
+  survey_stowell2018:           https://canvas.uw.edu/files/50616950/download?download_frd=1
+  theory_andalibi2018:          https://canvas.uw.edu/files/50616952/download?download_frd=1
+  theory_niess2018:             https://canvas.uw.edu/files/50616953/download?download_frd=1
+# Usability Evaluation Considered Harmful
+  fogarty2017:                  https://canvas.uw.edu/files/50605464/download?download_frd=1
+  greenberg2008:                https://canvas.uw.edu/files/50605465/download?download_frd=1
 ## Modeling Touch Input
 #  buxton1995:                   https://canvas.uw.edu/files/46091559/download?download_frd=1
 #  holz2010:                     https://canvas.uw.edu/files/46091557/download?download_frd=1
@@ -220,70 +220,70 @@ calendar:
         ### Empirical Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        `Yomna Abdelrahman, Mohamed Khamis, Stefan Schneegass, Florian Alt. [Stay Cool! Understanding Thermal Attacks on Mobile-based User Authentication]( {{ page.paper_url.empirical_abdelrahman2017 }}). CHI 2017.`
+        Paul Denny, Fiona McDonald, Ruth Empson, Philip Kelly, Andrew Petersen. [Empirical Support for a Causal Relationship Between Gamification and Learning Outcomes]( {{ page.paper_url.empirical_denny2018 }}). CHI 2018.
         </li>
         <li class="paper" markdown="block">
-        `Min Fan, Alissa N. Antle, Maureen Hoskyn, Carman Neustaedter, Emily S. Cramer. [Why Tangibility Matters: A Design Case Study of At-Risk Children Learning to Read and Spell]({{ page.paper_url.empirical_fan2017 }}). CHI 2017.`
+        Nitya Verma, Lynn Dombrowski. [Confronting Social Criticisms: Challenges when Adopting Data-Driven Policing Strategies]({{ page.paper_url.empirical_verma2018 }}). CHI 2018.
         </li>
         </ul>
 
         ### Artifact Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        `Daniel Buschek, Florian Alt. [ProbUI: Generalising Touch Target Representations to Enable Declarative Gesture Deﬁnition for Probabilistic GUIs]({{ page.paper_url.artifact_buschek2017 }}). CHI 2017.`
+        Ting-Hao (Kenneth) Huang, Joseph Chee Chang, Jeffrey P. Bigham. [Evorus: A Crowd-powered Conversational Assistant Built to Automate Itself Over Time]({{ page.paper_url.artifact_huang2018 }}). CHI 2018.
         </li>
         <li class="paper" markdown="block">
-        `Mary Beth Kery, Amber Horvath, Brad Myers. [Variolite: Supporting Exploratory Programming by Data Scientists]({{ page.paper_url.artifact_kery2017 }}). CHI 2017.`
+        Rundong Tian, Sarah Sterman, Ethan Chiou, Jeremy Warner, Eric Paulos. [MatchSticks: Woodworking through Improvisational Digital Fabrication]({{ page.paper_url.artifact_tian2018 }}). CHI 2018.
         </li>
         </ul>
 
         ### Methodological Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        `Christopher Elsden, David Chatting, Abigail Durrant, Andrew Garbett, Bettina Nissen, John Vines, David Kirt. [On Speculative Enactments]( {{ page.paper_url.method_elsden2017 }} ). CHI 2017.`
+        Tilman Dingler, Rufat Rzayev, Alireza Sahami Shirazi, Niels Henze. [Designing Consistent Gestures Across Device Types: Eliciting RSVP Controls for Phone, Watch, and Glasses]( {{ page.paper_url.method_dingler2018 }} ). CHI 2018.
         </li>
         <li class="paper" markdown="block">
-        `Annu Sible Prabhakar, Lucia Guerra-Reyes, Vanessa M. Kleinschmidt, Ben Jelen, Haley MacLeod, Kay Connelly, Katie A. Siek. [Investigating the Suitability of the Asynchronous, Remote, Community-based Method for Pregnant and New Mothers]({{ page.paper_url.method_prabhakar2017 }}). CHI 2017.`
+        Amanda Lazar, Jessica L. Feuston, Caroline Edasis, Anne Marie Piper. [Making as Expression: Informing Design with People with Complex Communication Needs through Art Therapy]({{ page.paper_url.method_lazar2018 }}). CHI 2018.
         </li>
         </ul>
 
         ### Theoretical Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        `Ali Alkhatib, Michael S. Bernstein, Margaret Levi. [Examining Crowd Work and Gig Work Through The Historical Lens of Piecework]({{ page.paper_url.theory_alkhatib2017 }}). CHI 2017.`
+        Nazanin Andalibi, Andrea Forte. [Announcing Pregnancy Loss on Facebook: A Decision-Making Framework for Stigmatized Disclosures on Identified Social Network Sites]({{ page.paper_url.theory_andalibi2018 }}). CHI 2018.
         </li>
         <li class="paper" markdown="block">
-        `Kasper Hornbaek, Antti Oulasvirta. [What Is Interaction?]({{ page.paper_url.theory_hornbaek2017 }}). CHI 2017.`
+        Jasmin Niess, Paweł W. Woźniak. [Supporting Meaningful Personal Fitness: the Tracker Goal Evolution Model]({{ page.paper_url.theory_niess2018 }}). CHI 2018.
         </li>
         </ul>
 
         ### Benchmark/Dataset Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        `Kodlee Yin, Cecilia Aragon, Sarah Evans, Katie Davis. [Where No One Has Gone Before: A Meta-Dataset of the World’s Largest Fanfiction Repository]({{ page.paper_url.dataset_yin2017 }}). CHI 2017.`
+        Ankit Kariryaa, Isaac Johnson, Johannes Schöning, Brent Hecht. [Defining and Predicting the Localness of Volunteered Geographic Information using Ground Truth Data]({{ page.paper_url.dataset_kariryaa2018 }}). CHI 2018.
         </li>
         <li class="paper" markdown="block">
-        `Biplab Deka, Zifeng Huang, Chad Franzen, Joshua Hibschman, Daniel Afergan, Yang Li, Jeffrey Nichols, Ranjitha Kumar. [Rico: A Mobile App Dataset for Building Data-Driven Design Applications]({{ page.paper_url.dataset_deka2017 }}). UIST 2017.`
+        Nikhita Singh, Jin Joo Lee, Ishaan Grover, Cynthia Breazeal. [P2PSTORY: Dataset of Children as Storytellers and Listeners in Peer-to-Peer Interactions]({{ page.paper_url.dataset_singh2018 }}). CHI 2018.
         </li>
         </ul>
 
         ### Survey Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        `Ari Schlesinger, W. Keith Edwards, Rebecca E. Grinter. [Intersectional HCI: Engaging Identity through Gender, Race, and Class]({{ page.paper_url.survey_schlesinger2017 }}). CHI 2017.`
+        Ingrid Pettersson, Florian Lachner, Anna-Katharina Frison, Andreas Riener, Andreas Butz. [A Bermuda Triangle? - A Review of Method Application and Triangulation in User Experience Evaluation]({{ page.paper_url.survey_pettersson2018 }}). CHI 2018.
         </li>
         <li class="paper" markdown="block">
-        `Raphael Velt, Steve Benford, Stuart Reeves. [A Survey of the Trajectories Conceptual Framework: Investigating Theory Use in HCI]({{ page.paper_url.survey_velt2017 }}). CHI 2017.`
+        Elizabeth Stowell, Mercedes C. Lyson, Herman Saksono, Reneé C. Wurth, Holly Jimison, Misha Pavel, Andrea G. Parker. [Designing and Evaluating mHealth Interventions for Vulnerable Populations: A Systematic Review]({{ page.paper_url.survey_stowell2018 }}). CHI 2018.
         </li>
         </ul>
 
         ### Opinion Papers
         <ul class="readings" markdown="block">
         <li class="paper" markdown="block">
-        `Amanda Lazar, Caroline Edasis, Anne Marie Piper. [A Critical Lens on Dementia and Design in HCI]({{ page.paper_url.opinion_lazar2017 }}). CHI 2017.`
+        Andy Cockburn, Carl Gutwin, Alan Dix. [HARK No More: On the Preregistration of CHI Experiments]({{ page.paper_url.opinion_cockburn2018 }}). CHI 2018.
         </li>
         <li class="paper" markdown="block">
-        `Joe Marshall, Conor Linehan. [Misrepresentation of Health Research in Exertion Games Literature]({{ page.paper_url.opinion_marshall2017 }}). CHI 2017.`
+        Christian Remy, Oliver Bates, Alan Dix, Vanessa Thomas, Mike Hazas, Adrian Friday, Elaine M. Huang. [Evaluation beyond Usability: Validating Sustainable HCI Research]({{ page.paper_url.opinion_remy2018 }}). CHI 2018.
         </li>
         </ul>
       - |
