@@ -35,7 +35,7 @@ We will emphasize open discussion and feedback in all aspects of the course.
 
 __Contact__: Email all instructors at cse510-staff [at] cs.washington.edu
 
-__Class Time & Location__: Tuesdays & Thursdays, 10:00-11:20, `MUE 153`
+__Class Time & Location__: Tuesdays & Thursdays, 10:00-11:20, [LOW](http://www.washington.edu/maps/#!/low) [105](http://www.washington.edu/classroom/LOW+105)
 
 __Office Hours__: By appointment, and as scheduled for project meetings.
 
