@@ -136,6 +136,8 @@ Submit your proposal presentation in PDF, PPT, or PPTX format:
 
 `<{{ page.canvas.proposal_pres }}>`
 
+Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible]).
+
 ### Milestone Reports
 
 Two milestone reports serve as a check on the trajectory of your project
@@ -172,6 +174,8 @@ Our primary goal is feedback, not a formal presentation. Please be appropriately
 Submit your milestone document in PDF format.
 
 Submit your milestone presentation in PDF, PPT, or PPTX format.
+
+Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible]).
 
 ### Final Report
 

@@ -196,6 +196,8 @@ calendar:
         
         `<https://canvas.uw.edu/courses/1187533/assignments/4016009>`
 
+        Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible]).
+
         Second, individually read at least one more of the above vision papers.
 
         No reading report is necessary, but everyone picking a second paper benefits in-class discussion.
@@ -316,6 +318,8 @@ calendar:
 
         `<{{ page.canvas.proposal_pres }}>`
 
+        Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible]).
+
   - date: Thu Oct 11
     collapse: False
     title: "Usability Evaluation Considered Harmful"
@@ -389,6 +393,7 @@ calendar:
 
         `<{{ page.canvas.milestone1_pres }}>`
 
+        Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible]).
 
   - date: Thu Nov 1
     collapse: False
@@ -437,6 +442,8 @@ calendar:
         Submit your presentation in PDF, PPT, or PPTX format:
 
         `<{{ page.canvas.milestone2_pres }}>`
+
+        Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible]).
 
   - date: Mon Nov 26
     collapse: False
