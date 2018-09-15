@@ -16,7 +16,7 @@ canvas:
   milestone2_doc:   https://canvas.uw.edu/courses/1249568/assignments/4380349
   final_rep:        https://canvas.uw.edu/courses/1249568/assignments/4380351
 paper_url:
-#  wobbrock2015:     https://canvas.uw.edu/files/42006907/download?download_frd=1
+  wobbrock2015:     https://canvas.uw.edu/files/50650811/download?download_frd=1
 ---
 
 <div class="alert alert-danger" markdown="1">
@@ -199,9 +199,9 @@ Format your report according to the SIGCHI Document Format:
 Additional guidance regarding effective paper writing can be found in:
 
 <div class="paper" markdown="block">
-`Jacob O. Wobbrock.
+Jacob O. Wobbrock.
 [Catchy Titles are Good: But Avoid Being Cute]({{ page.paper_url.wobbrock2015 }}).
-Writing Advice, White Paper, 2015.`
+Writing Advice, White Paper, 2015.
 </div>
 
 #### Submission
