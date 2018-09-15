@@ -8,7 +8,7 @@ stats_due: Uploaded by 11:59am Monday, November 26, 2018
 canvas_stats_submit:
 
 exam_due: Uploaded by 11:59pm Thursday, December 13, 2018
-canvas_exam_submit:
+canvas_exam_submit: https://canvas.uw.edu/courses/1249568/assignments/4380323
 ---
 
 {% comment %}

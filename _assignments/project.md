@@ -3,18 +3,18 @@ layout: base/bar/bar-sidebar-none
 title: "Project"
 
 due:
-#  proposal:     Tuesday, January 16, 2018
-#  milestone1:   Tuesday, February 6, 2018
-#  milestone2:   Tuesday, February 27, 2018
-#  finalreport:  Monday, March 12, 2018
+  proposal:     Monday, October 8, 2018
+  milestone1:   Monday, October 29, 2018
+  milestone2:   Monday, November 19, 2018
+  finalreport:  Monday, December 10, 2018
 canvas:
-#  proposal_pres:    https://canvas.uw.edu/courses/1187533/assignments/4018006
-#  proposal_doc:     https://canvas.uw.edu/courses/1187533/assignments/4017993
-#  milestone1_pres:  https://canvas.uw.edu/courses/1187533/assignments/4018016
-#  milestone1_doc:   https://canvas.uw.edu/courses/1187533/assignments/4018014
-#  milestone2_pres:  https://canvas.uw.edu/courses/1187533/assignments/4018019
-#  milestone2_doc:   https://canvas.uw.edu/courses/1187533/assignments/4018017
-#  final_rep:        https://canvas.uw.edu/courses/1187533/assignments/4018022
+  proposal_pres:    https://canvas.uw.edu/courses/1249568/assignments/4380344
+  proposal_doc:     https://canvas.uw.edu/courses/1249568/assignments/4380324
+  milestone1_pres:  https://canvas.uw.edu/courses/1249568/assignments/4380348
+  milestone1_doc:   https://canvas.uw.edu/courses/1249568/assignments/4380346
+  milestone2_pres:  https://canvas.uw.edu/courses/1249568/assignments/4380350
+  milestone2_doc:   https://canvas.uw.edu/courses/1249568/assignments/4380349
+  final_rep:        https://canvas.uw.edu/courses/1249568/assignments/4380351
 paper_url:
 #  wobbrock2015:     https://canvas.uw.edu/files/42006907/download?download_frd=1
 ---
@@ -71,10 +71,10 @@ Sign up for the reserved meeting times here:
 Project deliverables are defined in terms of a _proposal_, a pair of _self-defined milestones_, and a _final report_.
 These are due:
 
-- _Proposal_:       `{{ page.due.proposal }}`
-- _Milestone_:      `{{ page.due.milestone1 }}`
-- _Milestone_:      `{{ page.due.milestone2 }}`
-- _Final Report_:   `{{ page.due.finalreport }}`
+- _Proposal_:       {{ page.due.proposal }}
+- _Milestone_:      {{ page.due.milestone1 }}
+- _Milestone_:      {{ page.due.milestone2 }}
+- _Final Report_:   {{ page.due.finalreport }}
 
 ### Proposal
 
@@ -126,17 +126,17 @@ Our primary goal is feedback, not a formal presentation. Please be appropriately
 
 #### Submission
 
-`Due: Uploaded the night before class {{ page.due.proposal }}`
+Due: Uploaded by the end of day {{ page.due.proposal }}
 
 Submit your proposal document in PDF format:
 
-`<{{ page.canvas.proposal_doc}}>`
+<{{ page.canvas.proposal_doc}}>
 
 Submit your proposal presentation in PDF, PPT, or PPTX format:
 
-`<{{ page.canvas.proposal_pres }}>`
+<{{ page.canvas.proposal_pres }}>
 
-Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible]).
+Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible).
 
 ### Milestone Reports
 
@@ -164,18 +164,18 @@ Our primary goal is feedback, not a formal presentation. Please be appropriately
 
 #### Submission
 
-`Due: Uploaded the night before class {{ page.due.milestone1 }} and {{ page.due.milestone2 }}.`
+Due: Uploaded by the end of day {{ page.due.milestone1 }} and {{ page.due.milestone2 }}.
 
-- Milestone 1 document: `<{{ page.canvas.milestone1_doc }}>`
-- Milestone 1 presentation: `<{{ page.canvas.milestone1_pres }}>`
-- Milestone 2 document: `<{{ page.canvas.milestone2_doc }}>`
-- Milestone 2 presentation: `<{{ page.canvas.milestone2_pres }}>`
+- Milestone 1 document: <{{ page.canvas.milestone1_doc }}>
+- Milestone 1 presentation: <{{ page.canvas.milestone1_pres }}>
+- Milestone 2 document: <{{ page.canvas.milestone2_doc }}>
+- Milestone 2 presentation: <{{ page.canvas.milestone2_pres }}>
 
 Submit your milestone document in PDF format.
 
 Submit your milestone presentation in PDF, PPT, or PPTX format.
 
-Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible]).
+Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible).
 
 ### Final Report
 
@@ -199,16 +199,16 @@ Format your report according to the SIGCHI Document Format:
 Additional guidance regarding effective paper writing can be found in:
 
 <div class="paper" markdown="block">
-Jacob O. Wobbrock.
+`Jacob O. Wobbrock.
 [Catchy Titles are Good: But Avoid Being Cute]({{ page.paper_url.wobbrock2015 }}).
-Writing Advice, White Paper, 2015.
+Writing Advice, White Paper, 2015.`
 </div>
 
 #### Submission
 
-`Due: Uploaded by the end of day {{ page.due.finalreport }}.`
+Due: Uploaded by the end of day {{ page.due.finalreport }}.
 
-`<{{ page.canvas.final_rep }}>`
+<{{ page.canvas.final_rep }}>
 
 Submit your final report document in PDF format.
 

@@ -95,15 +95,15 @@ paper_url:
 
 
 canvas:
-#  proposal_pres:    https://canvas.uw.edu/courses/1187533/assignments/4018006
-#  proposal_doc:     https://canvas.uw.edu/courses/1187533/assignments/4017993
-#  milestone1_pres:  https://canvas.uw.edu/courses/1187533/assignments/4018016
-#  milestone1_doc:   https://canvas.uw.edu/courses/1187533/assignments/4018014
-#  milestone2_pres:  https://canvas.uw.edu/courses/1187533/assignments/4018019
-#  milestone2_doc:   https://canvas.uw.edu/courses/1187533/assignments/4018017
-#  final_rep:        https://canvas.uw.edu/courses/1187533/assignments/4018022
-#  stats:            https://canvas.uw.edu/courses/1187533/assignments/4073435
-#  exam:             https://canvas.uw.edu/courses/1187533/assignments/4073437
+  proposal_pres:    https://canvas.uw.edu/courses/1249568/assignments/4380344
+  proposal_doc:     https://canvas.uw.edu/courses/1249568/assignments/4380324
+  milestone1_pres:  https://canvas.uw.edu/courses/1249568/assignments/4380348
+  milestone1_doc:   https://canvas.uw.edu/courses/1249568/assignments/4380346
+  milestone2_pres:  https://canvas.uw.edu/courses/1249568/assignments/4380350
+  milestone2_doc:   https://canvas.uw.edu/courses/1249568/assignments/4380349
+  final_rep:        https://canvas.uw.edu/courses/1249568/assignments/4380351
+  stats:            https://canvas.uw.edu/courses/1249568/assignments/4380322
+  exam:             https://canvas.uw.edu/courses/1249568/assignments/4380323
 
 calendar:
   - date: Thu Sep 27
@@ -194,9 +194,9 @@ calendar:
 
         Submit your presentation as 3 to 4  in PDF, PPT, or PPTX format:
         
-        `<https://canvas.uw.edu/courses/1187533/assignments/4016009>`
+        <https://canvas.uw.edu/courses/1249568/assignments/4380316>
 
-        Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible]).
+        Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible).
 
         Second, individually read at least one more of the above vision papers.
 
@@ -312,13 +312,13 @@ calendar:
 
         Submit your proposal document in PDF format:
 
-        `<{{ page.canvas.proposal_doc }}>`
+        <{{ page.canvas.proposal_doc }}>
 
         Submit your proposal presentation in PDF, PPT, or PPTX format:
 
-        `<{{ page.canvas.proposal_pres }}>`
+        <{{ page.canvas.proposal_pres }}>
 
-        Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible]).
+        Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible).
 
   - date: Thu Oct 11
     collapse: False
@@ -387,13 +387,13 @@ calendar:
 
         Submit your document in PDF format:
 
-        `<{{ page.canvas.milestone1_doc }}>`
+        <{{ page.canvas.milestone1_doc }}>
       - |
         Submit your presentation in PDF, PPT, or PPTX format:
 
-        `<{{ page.canvas.milestone1_pres }}>`
+        <{{ page.canvas.milestone1_pres }}>
 
-        Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible]).
+        Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible).
 
   - date: Thu Nov 1
     collapse: False
@@ -437,13 +437,13 @@ calendar:
 
         Submit your document in PDF format:
 
-        `<{{ page.canvas.milestone2_doc }}>`
+        <{{ page.canvas.milestone2_doc }}>
 
         Submit your presentation in PDF, PPT, or PPTX format:
 
-        `<{{ page.canvas.milestone2_pres }}>`
+        <{{ page.canvas.milestone2_pres }}>
 
-        Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible]).
+        Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible).
 
   - date: Mon Nov 26
     collapse: False
@@ -487,7 +487,7 @@ calendar:
         
         Submit your document in PDF format:
 
-        `<{{ page.canvas.final_rep }}>`
+        <{{ page.canvas.final_rep }}>
 
   - date:  Thu Dec 13
     collapse: False
@@ -502,7 +502,7 @@ calendar:
         
         Submit your document in PDF format:
 
-        `<{{ page.canvas.exam }}>`
+        <{{ page.canvas.exam }}>
 
 #  - date: Thu Jan 18
 #    collapse: False
