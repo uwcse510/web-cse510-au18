@@ -93,17 +93,17 @@ paper_url:
 #  rosnerchap4:                  https://canvas.uw.edu/files/47063654/download?download_frd=1
 #  rosnerchap5:                  https://canvas.uw.edu/files/47063656/download?download_frd=1
 
-
 canvas:
-  proposal_pres:    https://canvas.uw.edu/courses/1249568/assignments/4380344
-  proposal_doc:     https://canvas.uw.edu/courses/1249568/assignments/4380324
-  milestone1_pres:  https://canvas.uw.edu/courses/1249568/assignments/4380348
-  milestone1_doc:   https://canvas.uw.edu/courses/1249568/assignments/4380346
-  milestone2_pres:  https://canvas.uw.edu/courses/1249568/assignments/4380350
-  milestone2_doc:   https://canvas.uw.edu/courses/1249568/assignments/4380349
-  final_rep:        https://canvas.uw.edu/courses/1249568/assignments/4380351
-  stats:            https://canvas.uw.edu/courses/1249568/assignments/4380322
-  exam:             https://canvas.uw.edu/courses/1249568/assignments/4380323
+  reading_discussion:   https://canvas.uw.edu/courses/1249568/discussion_topics
+  proposal_pres:        https://canvas.uw.edu/courses/1249568/assignments/4380344
+  proposal_doc:         https://canvas.uw.edu/courses/1249568/assignments/4380324
+  milestone1_pres:      https://canvas.uw.edu/courses/1249568/assignments/4380348
+  milestone1_doc:       https://canvas.uw.edu/courses/1249568/assignments/4380346
+  milestone2_pres:      https://canvas.uw.edu/courses/1249568/assignments/4380350
+  milestone2_doc:       https://canvas.uw.edu/courses/1249568/assignments/4380349
+  final_rep:            https://canvas.uw.edu/courses/1249568/assignments/4380351
+  stats:                https://canvas.uw.edu/courses/1249568/assignments/4380322
+  exam:                 https://canvas.uw.edu/courses/1249568/assignments/4380323
 
 calendar:
   - date: Thu Sep 27
@@ -323,6 +323,7 @@ calendar:
   - date: Thu Oct 11
     collapse: False
     title: "Usability Evaluation Considered Harmful"
+    reading_report_standard: True
     reading_framing:
       - |
         Saul Greenberg, Bill Buxton. [Usability Evaluation Considered Harmful (Some of the Time)]({{ page.paper_url.greenberg2008 }}). CHI 2008.
@@ -331,20 +332,11 @@ calendar:
         `add Olsen paper`
       - |
         James Fogarty. [Code and Contribution in Interactive Systems Research]({{ page.paper_url.fogarty2017 }}). CHI 2017 Workshop on #HCI.Tools: Strategies and Best Practices for Designing, Evaluating, and Sharing Technical HCI Toolkits.
-#    content:
-#      - |
-#        ### Non-Standard Reading Format
-#
-#        Post a reading report in the appropriate thread:
-#
-#        `<https://canvas.uw.edu/courses/1187533/discussion_topics>`
-#
-#        Only one paper is assigned, so that will be the focus of your reading report.
-
 
   - date: Thu Oct 16
     collapse: False
     title: "Research Topic: TBD"
+    reading_report_standard: True
     content:
       - |
         <div class="alert" markdown="block">
@@ -354,6 +346,7 @@ calendar:
   - date: Thu Oct 18
     collapse: False
     title: "Research Topic: TBD"
+    reading_report_standard: True
     content:
       - |
         <div class="alert" markdown="block">
@@ -363,11 +356,13 @@ calendar:
   - date: Tue Oct 23
     collapse: False
     title: "Research Topic: TBD"
+    reading_report_standard: True
     content:
 
   - date: Thu Oct 25
     collapse: False
     title: "Research Topic: TBD"
+    reading_report_standard: True
     content:
 
   - date: Tue Oct 30
@@ -398,26 +393,31 @@ calendar:
   - date: Thu Nov 1
     collapse: False
     title: "Research Topic: TBD"
+    reading_report_standard: True
     content:
 
   - date: Tue Nov 6
     collapse: False
     title: "Research Topic: TBD"
+    reading_report_standard: True
     content:
 
   - date: Thu Nov 8
     collapse: False
     title: "Research Topic: TBD"
+    reading_report_standard: True
     content:
 
   - date: Tue Nov 13
     collapse: False
     title: "Research Topic: TBD"
+    reading_report_standard: True
     content:
 
   - date: Thu Nov 15
     collapse: False
     title: "Research Topic: TBD"
+    reading_report_standard: True
     content:
 
   - date: Tue Nov 20
@@ -457,21 +457,25 @@ calendar:
   - date: Tue Nov 27
     collapse: False
     title: "Research Topic: TBD"
+    reading_report_standard: True
     content:
 
   - date: Thu Nov 29
     collapse: False
     title: "Research Topic: TBD"
+    reading_report_standard: True
     content:
 
   - date: Tue Dec 4
     collapse: False
     title: "Research Topic: TBD"
+    reading_report_standard: True
     content:
 
   - date: Thu Dec 6
     collapse: False
     title: "Research Topic: TBD"
+    reading_report_standard: True
     content:
 
   - date:  Mon Dec 10
@@ -775,9 +779,11 @@ calendar:
 
 ---
 
+{% comment %}
 <div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed. All content remains subject to change.
 </div>
+{% endcomment %}
 
 <html>
 <div class="calendar">
@@ -855,13 +861,13 @@ Select one of these to read:
 </div>
 {% endif %}
 
-{% if daycurrent.discussion %}
+{% if daycurrent.reading_report_standard %}
 <div class="directions" markdown="block">
 ### Standard Reading Format
 
 Post a reading report in the appropriate thread(s):
 
-<{{ daycurrent.discussion }}>
+<{{ page.canvas.reading_discussion }}>
 </div>
 {% endif %}
 
