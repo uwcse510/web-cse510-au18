@@ -334,7 +334,7 @@ calendar:
       - |
         James Fogarty. [Code and Contribution in Interactive Systems Research]({{ page.paper_url.fogarty2017 }}). CHI 2017 Workshop on #HCI.Tools: Strategies and Best Practices for Designing, Evaluating, and Sharing Technical HCI Toolkits.
 
-  - date: Thu Oct 16
+  - date: Tue Oct 16
     collapse: False
     title: "Research Topic: TBD"
     reading_report_standard: True
