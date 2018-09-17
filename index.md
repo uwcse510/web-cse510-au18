@@ -7,6 +7,7 @@ due:
   exam: Uploaded by 11:59pm Thursday, December 13, 2018
 canvas:
   discussion: "https://canvas.uw.edu/courses/1249568/discussion_topics"
+  discussion_sample_projects: "https://canvas.uw.edu/courses/1187533/discussion_topics/4094422"
   stats_submit:
   exam_submit: https://canvas.uw.edu/courses/1249568/assignments/4380323
 ---
@@ -128,11 +129,11 @@ A course project will be a major component of your work. Details of the project 
 
 Dates are also linked from the course calendar.
 
-`Some sample project ideas, gathered from faculty and researchers, have been made available here:`
+Some sample project ideas, gathered from faculty and researchers, have been made available here:
 
-`<https://canvas.uw.edu/courses/1187533/discussion_topics/4094422>`
+<{{ page.canvas.discussion_sample_projects }}>
 
-`You can also use that discussion identify potential project partners and to post your own ideas.`
+You can also use that discussion identify potential project partners and to post your own ideas.
 
 ## Statistics Lab
 

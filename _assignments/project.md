@@ -8,20 +8,23 @@ due:
   milestone2:   Uploaded by 11:59pm Monday, November 19, 2018
   finalreport:  Uploaded by 11:59pm Monday, December 10, 2018
 canvas:
-  proposal_pres:    https://canvas.uw.edu/courses/1249568/assignments/4380344
-  proposal_doc:     https://canvas.uw.edu/courses/1249568/assignments/4380324
-  milestone1_pres:  https://canvas.uw.edu/courses/1249568/assignments/4380348
-  milestone1_doc:   https://canvas.uw.edu/courses/1249568/assignments/4380346
-  milestone2_pres:  https://canvas.uw.edu/courses/1249568/assignments/4380350
-  milestone2_doc:   https://canvas.uw.edu/courses/1249568/assignments/4380349
-  final_rep:        https://canvas.uw.edu/courses/1249568/assignments/4380351
+  discussion_sample_projects:   https://canvas.uw.edu/courses/1187533/discussion_topics/4094422
+  proposal_pres:                https://canvas.uw.edu/courses/1249568/assignments/4380344
+  proposal_doc:                 https://canvas.uw.edu/courses/1249568/assignments/4380324
+  milestone1_pres:              https://canvas.uw.edu/courses/1249568/assignments/4380348
+  milestone1_doc:               https://canvas.uw.edu/courses/1249568/assignments/4380346
+  milestone2_pres:              https://canvas.uw.edu/courses/1249568/assignments/4380350
+  milestone2_doc:               https://canvas.uw.edu/courses/1249568/assignments/4380349
+  final_rep:                    https://canvas.uw.edu/courses/1249568/assignments/4380351
 paper_url:
-  wobbrock2015:     https://canvas.uw.edu/files/50650811/download?download_frd=1
+  wobbrock2015:                 https://canvas.uw.edu/files/50650811/download?download_frd=1
 ---
 
+{% comment %}
 <div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed. All content remains subject to change.
 </div>
+{% endcomment %}
 
 ## Overview
 
@@ -46,7 +49,7 @@ Working in groups is a necessary part of doing research, and also important for 
 
 Some sample project ideas, gathered from faculty and researchers, have been made available here:
 
-`<https://canvas.uw.edu/courses/1187533/discussion_topics/4094422>`
+<{{ page.canvas.discussion_sample_projects }}>
 
 You can also use that discussion identify potential project partners and to post your own ideas.
 
