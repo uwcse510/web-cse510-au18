@@ -3,10 +3,10 @@ layout: base/bar/bar-sidebar-none
 title: "Project"
 
 due:
-  proposal:     Monday, October 8, 2018
-  milestone1:   Monday, October 29, 2018
-  milestone2:   Monday, November 19, 2018
-  finalreport:  Monday, December 10, 2018
+  proposal:     Uploaded by 11:59pm Monday, October 8, 2018
+  milestone1:   Uploaded by 11:59pm Monday, October 29, 2018
+  milestone2:   Uploaded by 11:59pm Monday, November 19, 2018
+  finalreport:  Uploaded by 11:59pm Monday, December 10, 2018
 canvas:
   proposal_pres:    https://canvas.uw.edu/courses/1249568/assignments/4380344
   proposal_doc:     https://canvas.uw.edu/courses/1249568/assignments/4380324
@@ -126,7 +126,7 @@ Our primary goal is feedback, not a formal presentation. Please be appropriately
 
 #### Submission
 
-Due: Uploaded by the end of day {{ page.due.proposal }}
+Due: {{ page.due.proposal }}
 
 Submit your proposal document in PDF format:
 
@@ -164,7 +164,7 @@ Our primary goal is feedback, not a formal presentation. Please be appropriately
 
 #### Submission
 
-Due: Uploaded by the end of day {{ page.due.milestone1 }} and {{ page.due.milestone2 }}.
+Due: {{ page.due.milestone1 }} and {{ page.due.milestone2 }}.
 
 - Milestone 1 document: <{{ page.canvas.milestone1_doc }}>
 - Milestone 1 presentation: <{{ page.canvas.milestone1_pres }}>
@@ -206,7 +206,7 @@ Writing Advice, White Paper, 2015.
 
 #### Submission
 
-Due: Uploaded by the end of day {{ page.due.finalreport }}.
+Due: {{ page.due.finalreport }}.
 
 <{{ page.canvas.final_rep }}>
 
