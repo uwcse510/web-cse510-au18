@@ -41,6 +41,7 @@ paper_url:
 # Usability Evaluation Considered Harmful
   fogarty2017:                  https://canvas.uw.edu/files/50605464/download?download_frd=1
   greenberg2008:                https://canvas.uw.edu/files/50605465/download?download_frd=1
+  olsen2007:                    https://canvas.uw.edu/files/50664670/download?download_frd=1
 ## Modeling Touch Input
 #  buxton1995:                   https://canvas.uw.edu/files/46091559/download?download_frd=1
 #  holz2010:                     https://canvas.uw.edu/files/46091557/download?download_frd=1
@@ -329,7 +330,7 @@ calendar:
         Saul Greenberg, Bill Buxton. [Usability Evaluation Considered Harmful (Some of the Time)]({{ page.paper_url.greenberg2008 }}). CHI 2008.
     reading_instances:
       - |
-        `add Olsen paper`
+        Dan R. Olsen, Jr. [Evaluating User Interface Systems Research]({{ page.paper_url.olsen2007 }}). UIST 2007.
       - |
         James Fogarty. [Code and Contribution in Interactive Systems Research]({{ page.paper_url.fogarty2017 }}). CHI 2017 Workshop on #HCI.Tools: Strategies and Best Practices for Designing, Evaluating, and Sharing Technical HCI Toolkits.
 
