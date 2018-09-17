@@ -3,25 +3,28 @@ layout: base/bar/bar-sidebar-none
 title: "Project"
 
 due:
-  proposal:     Monday, October 8, 2018
-  milestone1:   Monday, October 29, 2018
-  milestone2:   Monday, November 19, 2018
-  finalreport:  Monday, December 10, 2018
+  proposal:     Uploaded by 11:59pm Monday, October 8, 2018
+  milestone1:   Uploaded by 11:59pm Monday, October 29, 2018
+  milestone2:   Uploaded by 11:59pm Monday, November 19, 2018
+  finalreport:  Uploaded by 11:59pm Monday, December 10, 2018
 canvas:
-  proposal_pres:    https://canvas.uw.edu/courses/1249568/assignments/4380344
-  proposal_doc:     https://canvas.uw.edu/courses/1249568/assignments/4380324
-  milestone1_pres:  https://canvas.uw.edu/courses/1249568/assignments/4380348
-  milestone1_doc:   https://canvas.uw.edu/courses/1249568/assignments/4380346
-  milestone2_pres:  https://canvas.uw.edu/courses/1249568/assignments/4380350
-  milestone2_doc:   https://canvas.uw.edu/courses/1249568/assignments/4380349
-  final_rep:        https://canvas.uw.edu/courses/1249568/assignments/4380351
+  discussion_sample_projects:   https://canvas.uw.edu/courses/1187533/discussion_topics/4094422
+  proposal_pres:                https://canvas.uw.edu/courses/1249568/assignments/4380344
+  proposal_doc:                 https://canvas.uw.edu/courses/1249568/assignments/4380324
+  milestone1_pres:              https://canvas.uw.edu/courses/1249568/assignments/4380348
+  milestone1_doc:               https://canvas.uw.edu/courses/1249568/assignments/4380346
+  milestone2_pres:              https://canvas.uw.edu/courses/1249568/assignments/4380350
+  milestone2_doc:               https://canvas.uw.edu/courses/1249568/assignments/4380349
+  final_rep:                    https://canvas.uw.edu/courses/1249568/assignments/4380351
 paper_url:
-  wobbrock2015:     https://canvas.uw.edu/files/50650811/download?download_frd=1
+  wobbrock2015:                 https://canvas.uw.edu/files/50650811/download?download_frd=1
 ---
 
+{% comment %}
 <div class="alert alert-danger" markdown="1">
 This page is still being migrated and developed. All content remains subject to change.
 </div>
+{% endcomment %}
 
 ## Overview
 
@@ -46,7 +49,7 @@ Working in groups is a necessary part of doing research, and also important for 
 
 Some sample project ideas, gathered from faculty and researchers, have been made available here:
 
-`<https://canvas.uw.edu/courses/1187533/discussion_topics/4094422>`
+<{{ page.canvas.discussion_sample_projects }}>
 
 You can also use that discussion identify potential project partners and to post your own ideas.
 
@@ -126,7 +129,7 @@ Our primary goal is feedback, not a formal presentation. Please be appropriately
 
 #### Submission
 
-Due: Uploaded by the end of day {{ page.due.proposal }}
+Due: {{ page.due.proposal }}
 
 Submit your proposal document in PDF format:
 
@@ -164,7 +167,7 @@ Our primary goal is feedback, not a formal presentation. Please be appropriately
 
 #### Submission
 
-Due: Uploaded by the end of day {{ page.due.milestone1 }} and {{ page.due.milestone2 }}.
+Due: {{ page.due.milestone1 }} and {{ page.due.milestone2 }}.
 
 - Milestone 1 document: <{{ page.canvas.milestone1_doc }}>
 - Milestone 1 presentation: <{{ page.canvas.milestone1_pres }}>
@@ -206,7 +209,7 @@ Writing Advice, White Paper, 2015.
 
 #### Submission
 
-Due: Uploaded by the end of day {{ page.due.finalreport }}.
+Due: {{ page.due.finalreport }}.
 
 <{{ page.canvas.final_rep }}>
 
