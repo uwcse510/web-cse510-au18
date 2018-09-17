@@ -2,13 +2,13 @@
 layout: base/bar/bar-sidebar-none
 title: Course Overview
 
-canvas_discussion: "https://canvas.uw.edu/courses/1249568/discussion_topics"
-
-stats_due: Uploaded by 11:59am Monday, November 26, 2018
-canvas_stats_submit:
-
-exam_due: Uploaded by 11:59pm Thursday, December 13, 2018
-canvas_exam_submit: https://canvas.uw.edu/courses/1249568/assignments/4380323
+due:
+  stats: Uploaded by 11:59am Monday, November 26, 2018
+  exam: Uploaded by 11:59pm Thursday, December 13, 2018
+canvas:
+  discussion: "https://canvas.uw.edu/courses/1249568/discussion_topics"
+  stats_submit:
+  exam_submit: https://canvas.uw.edu/courses/1249568/assignments/4380323
 ---
 
 {% comment %}
@@ -113,7 +113,7 @@ Potential topics for discussion are:
 
 Discussions will be coordinated using Canvas, with a post for each day:
 
-{% if page.canvas_discussion != nil %}<{{ page.canvas_discussion }}>{% else %}`Link to be added`{% endif %}
+{% if page.canvas.discussion != nil %}<{{ page.canvas.discussion }}>{% else %}`Link to be added`{% endif %}
 
 Reading reports are due at 11:59pm the night before each class meeting.
 This ensures time the next morning to review discussion before class.
@@ -161,11 +161,11 @@ The assignment is available for download:
 
 ### Submission
 
-Due: {{ page.stats_due }}.
+Due: {{ page.due.stats }}.
 
 Submit a ZIP archive including your document in PDF format and any additional files:
 
-{% if page.canvas_stats_submit != nil %}<{{ page.canvas_stats_submit }}>{% else %}`Link to be added`{% endif %}
+{% if page.canvas.stats_submit != nil %}<{{ page.canvas.stats_submit }}>{% else %}`Link to be added`{% endif %}
 
 ## Exam
 
@@ -178,9 +178,9 @@ You may consult the course staff with any questions, but this is strictly an ind
 
 ### Submission
 
-Due: {{ page.exam_due }}.
+Due: {{ page.due.exam }}.
 
-{% if page.canvas_exam_submit != nil %}<{{ page.canvas_exam_submit }}>{% else %}`Link to be added`{% endif %}
+{% if page.canvas.exam_submit != nil %}<{{ page.canvas.exam_submit }}>{% else %}`Link to be added`{% endif %}
 
 ## Grading
 
