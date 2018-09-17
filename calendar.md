@@ -865,7 +865,7 @@ Select one of these to read:
 <div class="directions" markdown="block">
 ### Standard Reading Format
 
-Post a reading report in the appropriate thread(s):
+Post a reading report in the appropriate thread(s), by 11:59pm the night before class:
 
 <{{ page.canvas.reading_discussion }}>
 </div>
