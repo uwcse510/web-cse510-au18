@@ -363,6 +363,7 @@ calendar:
   - date: Thu Oct 25
     collapse: False
     title: "Research Topic: TBD"
+    guest: "[Mako Hill](https://mako.cc/)"
     reading_report_standard: True
     content:
 
