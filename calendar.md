@@ -479,6 +479,7 @@ calendar:
   - date: Thu Dec 6
     collapse: False
     title: "Research Topic: TBD"
+    guest: "[Audrey Desjardins](http://www.audreydesjardins.com/)"
     reading_report_standard: True
     content:
 
