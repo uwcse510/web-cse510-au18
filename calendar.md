@@ -465,12 +465,14 @@ calendar:
   - date: Thu Nov 29
     collapse: False
     title: "Research Topic: TBD"
+    guest: "[Christian Holz](https://www.christianholz.net/)"
     reading_report_standard: True
     content:
 
   - date: Tue Dec 4
     collapse: False
-    title: "Research Topic: TBD"
+    title: "Research Topic: Accessibility"
+    guest: "[Merrie Morris](https://www.microsoft.com/en-us/research/people/merrie/)"
     reading_report_standard: True
     content:
 
