@@ -459,6 +459,7 @@ calendar:
   - date: Tue Nov 27
     collapse: False
     title: "Research Topic: TBD"
+    guest: "[Wanda Pratt](https://faculty.washington.edu/wpratt/)"
     reading_report_standard: True
     content:
 
