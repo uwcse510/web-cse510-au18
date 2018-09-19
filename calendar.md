@@ -472,7 +472,7 @@ calendar:
   - date: Tue Dec 4
     collapse: False
     title: "Research Topic: Accessibility"
-    guest: "[Merrie Morris](https://www.microsoft.com/en-us/research/people/merrie/)"
+    guest: "[Meredith Ringle Morris](https://www.microsoft.com/en-us/research/people/merrie/)"
     reading_report_standard: True
     content:
 
