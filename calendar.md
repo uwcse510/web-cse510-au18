@@ -337,6 +337,7 @@ calendar:
   - date: Tue Oct 16
     collapse: False
     title: "Research Topic: TBD"
+    guest: "[Jon Froehlich](https://www.cs.washington.edu/people/faculty/jonf)"
     reading_report_standard: True
     content:
       - |
