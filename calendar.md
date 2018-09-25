@@ -421,6 +421,7 @@ calendar:
   - date: Thu Nov 15
     collapse: False
     title: "Research Topic: TBD"
+    guest: "[Adam Fourney](https://www.adamfourney.com/)"
     reading_report_standard: True
     content:
 
