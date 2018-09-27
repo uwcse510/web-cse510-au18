@@ -396,25 +396,28 @@ calendar:
 
   - date: Thu Nov 1
     collapse: False
-    title: "Research Topic: TBD"
+    title: "Research Topic: Design Tools"
     reading_report_standard: True
     content:
 
   - date: Tue Nov 6
     collapse: False
     title: "Research Topic: TBD"
+    guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
     reading_report_standard: True
     content:
 
   - date: Thu Nov 8
     collapse: False
     title: "Research Topic: TBD"
+    guest: "[Richard Anderson](https://www.cs.washington.edu/people/faculty/anderson)"
     reading_report_standard: True
     content:
 
   - date: Tue Nov 13
     collapse: False
     title: "Research Topic: TBD"
+    guest: "[Jason Yip](http://bigyipper.com/)"
     reading_report_standard: True
     content:
 
