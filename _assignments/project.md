@@ -61,13 +61,13 @@ Sample project proposals from prior offerings have been made available here:
 
 ## Early Feedback
 
-`Course staff will be available to meet and provide early feedback during the week of January 8 to January 12.`
+Course staff will be available to meet and provide early feedback as desired.
 
 Meeting is optional.
 You can also email to request feedback or to inquire about arranging another time to meet.
 Sign up for the reserved meeting times here:
 
-`<https://calendar.google.com/calendar/selfsched?sstoken=UUhkV1oxenFvQmdqfGRlZmF1bHR8NTczYzFkZjQ3OTFiMmNiZTcwZmY4NzZmY2Q3OGNlYzg>`
+<https://calendar.google.com/calendar/selfsched?sstoken=UUhkV1oxenFvQmdqfGRlZmF1bHR8NTczYzFkZjQ3OTFiMmNiZTcwZmY4NzZmY2Q3OGNlYzg>
 
 ## Project Deliverables
 
