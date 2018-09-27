@@ -108,8 +108,9 @@ canvas:
 
 calendar:
   - date: Thu Sep 27
-    collapse: False
+    collapse: True
     title: "Course Overview and HCI History"
+    slides: "https://canvas.uw.edu/files/50912960/download?download_frd=1"
     content:
       - |
         No Readings Assigned
