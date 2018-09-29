@@ -8,7 +8,7 @@ due:
   milestone2:   Uploaded by 11:59pm Monday, November 19, 2018
   finalreport:  Uploaded by 11:59pm Monday, December 10, 2018
 canvas:
-  discussion_sample_projects:   https://canvas.uw.edu/courses/1187533/discussion_topics/4094422
+  discussion_sample_projects:   https://canvas.uw.edu/courses/1249568/discussion_topics/4437368
   proposal_pres:                https://canvas.uw.edu/courses/1249568/assignments/4380344
   proposal_doc:                 https://canvas.uw.edu/courses/1249568/assignments/4380324
   milestone1_pres:              https://canvas.uw.edu/courses/1249568/assignments/4380348

@@ -7,7 +7,7 @@ due:
   exam: Uploaded by 11:59pm Thursday, December 13, 2018
 canvas:
   discussion: "https://canvas.uw.edu/courses/1249568/discussion_topics"
-  discussion_sample_projects: "https://canvas.uw.edu/courses/1187533/discussion_topics/4094422"
+  discussion_sample_projects: "https://canvas.uw.edu/courses/1249568/discussion_topics/4437368"
   stats_submit:
   exam_submit: https://canvas.uw.edu/courses/1249568/assignments/4380323
 ---
