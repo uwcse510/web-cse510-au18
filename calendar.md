@@ -207,7 +207,7 @@ calendar:
         We are assigning them so that you can see these visions and explore them appropriately.
         You can and should skim according to your needs.
 
-  - date: Tue Oct 4
+  - date: Thu Oct 4
     collapse: False
     title: "Contributions in Human-Computer Interaction"
     reading_framing:
