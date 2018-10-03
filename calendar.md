@@ -375,6 +375,8 @@ calendar:
         Assigned: [Statistics Lab]({{ site.baseurl }}/index.html#statistics-lab)
         </div>
       - |
+        ### Non-Standard Reading Format
+
         No Readings Assigned
 
   - date: Thu Oct 25
