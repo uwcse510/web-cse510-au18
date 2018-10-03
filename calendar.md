@@ -417,9 +417,24 @@ calendar:
 
   - date: Tue Nov 6
     collapse: False
-    title: "Research Topic: TBD"
+    title: "Research Topic: Human Performance with Computing Systems"
     guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
     reading_report_standard: True
+    reading_framing:
+      - |
+        I. S. MacKenzie. [Fitts’ Law as a Research and Design Tool in Human-Computer Interaction]({{ page.paper_url.mackenzie1992 }}). Human-Computer Interaction 7, 1. 1992.
+    reading_instances:
+      - |
+        Johnny Accot, Shumin Zhai. [Beyond Fitts’ Law: Models for Trajectory-Based HCI Tasks]({{ page.paper_url.accot1997 }}). CHI 1997.
+      - |
+        Georg Apitz, François Guimbretière. [CrossY: A Crossing-Based Drawing Application]({{ page.paper_url.apitz2004 }}). UIST 2004.
+    reading_resources:
+      - |
+        I. S. MacKenzie, Tatu Kauppinen, Miika Silfverberg. [Accuracy Measures for Evaluating Computer Pointing Devices]({{ page.paper_url.mackenzie2001 }}). CHI 2001.
+      - |
+        Jacob O. Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law]({{ page.paper_url.wobbrock2008 }}). CHI 2008.
+      - |
+        [FittsStudy Software](https://depts.washington.edu/madlab/proj/fittsstudy/).
     content:
 
   - date: Thu Nov 8
@@ -535,26 +550,6 @@ calendar:
 
         <{{ page.canvas.exam }}>
 
-#  - date: Thu Jan 18
-#    collapse: False
-#    title: "Research Topic: Human Performance with Computing Systems"
-#    guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
-#    reading_framing:
-#      - |
-#        I. S. MacKenzie. [Fitts’ Law as a Research and Design Tool in Human-Computer Interaction]({{ page.paper_url.mackenzie1992 }}). Human-Computer Interaction 7, 1. 1992.
-#    reading_instances:
-#      - |
-#        Johnny Accot, Shumin Zhai. [Beyond Fitts’ Law: Models for Trajectory-Based HCI Tasks]({{ page.paper_url.accot1997 }}). CHI 1997.
-#      - |
-#        Georg Apitz, François Guimbretière. [CrossY: A Crossing-Based Drawing Application]({{ page.paper_url.apitz2004 }}). UIST 2004.
-#    reading_resources:
-#      - |
-#        I. S. MacKenzie, Tatu Kauppinen, Miika Silfverberg. [Accuracy Measures for Evaluating Computer Pointing Devices]({{ page.paper_url.mackenzie2001 }}). CHI 2001.
-#      - |
-#        Jacob O. Wobbrock, Edward Cutrell, Susumu Harada, I. S. MacKenzie. [An Error Model for Pointing Based on Fitts’ Law]({{ page.paper_url.wobbrock2008 }}). CHI 2008.
-#      - |
-#        [FittsStudy Software](https://depts.washington.edu/madlab/proj/fittsstudy/).
-#
 #  - date: Tue Jan 23
 #    collapse: False
 #    title: "Research Topic: Design Tools"
