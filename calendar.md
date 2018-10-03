@@ -368,9 +368,14 @@ calendar:
 
   - date: Tue Oct 23
     collapse: False
-    title: "Research Topic: TBD"
-    reading_report_standard: True
+    title: "Experimental Design and Analysis"
     content:
+      - |
+        <div class="major" markdown="block">
+        Assigned: [Statistics Lab]({{ site.baseurl }}/index.html#statistics-lab)
+        </div>
+      - |
+        No Readings Assigned
 
   - date: Thu Oct 25
     collapse: False
@@ -562,17 +567,6 @@ calendar:
 #      - |
 #        Björn Hartmann, Scott R. Klemmer, Michael Bernstein, Leith Abdulla, Brandon Burr, Avi Robinson-Mosher, Jennifer Gee. [Reflective Physical Prototyping through Integrated Design, Test, and Analysis]({{ page.paper_url.hartmann2006 }}). UIST 2006.
 #
-#  - date: Thu Jan 25
-#    collapse: False
-#    title: "Experimental Design and Analysis"
-#    content:
-#      - |
-#        <div class="major" markdown="block">
-#        Assigned: [Statistics Lab]({{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip)
-#        </div>
-#      - |
-#        No Readings Assigned
-#
 #  - date: Tue Jan 30
 #    collapse: False
 #    title: "Research Topic: Interacting with Code"
@@ -648,21 +642,6 @@ calendar:
 #        Mahdi Azmandian, Mark Hancock, Hrvoje Benko, Eyal Ofek, Andrew D. Wilson. [Haptic Retargeting: Dynamic Repurposing of Passive Haptics for Enhanced Virtual Reality Experiences]({{ page.paper_url.azmandian2016 }}). CHI 2016.
 #      - |
 #        Andrew D. Wilson, Hrvoje Benko. [CrossMotion: Fusing Device and Image Motion for User Identification, Tracking and Device Association]({{ page.paper_url.wilson2014 }}). ICMI 2014.
-#
-#  - date:  Sun Feb 18
-#    collapse: False
-#    title: Statistics Lab Due
-#    content:
-#      - |
-#        <div class="major" markdown="block">
-#        Due: [Statistics Lab]({{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip)
-#        </div>
-#      - |
-#        ### Submission
-#
-#        Submit your ZIP file:
-#
-#        <{{ page.canvas.stats }}>
 #
 #  - date: Tue Feb 20
 #    collapse: False
