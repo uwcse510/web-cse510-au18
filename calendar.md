@@ -119,7 +119,7 @@ calendar:
         Jonathan Grudin. [A Moving Target - The Evolution of Human-Computer Interaction]({{ page.paper_url.grudin2012 }}). Book Chapter.
 
   - date: Tue Oct 2
-    collapse: False
+    collapse: True
     title: "Visions of Human-Computer Interaction"
     content:
       - |
