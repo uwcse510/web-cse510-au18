@@ -116,6 +116,11 @@ Potential topics for discussion are:
 - What aspects of this work were particularly well done or effective?
 - If you had conducted this research, what would you have done differently?
 
+We also note that some papers will be presented by authors of those papers.
+Although we want everybody to be comfortable with open discussion,
+and we do not expect posts to be overly formal,
+this is another reason to be thoughtful in how you approach paper discussion.
+
 Discussions will be coordinated using Canvas, with a post for each day:
 
 {% if page.canvas.discussion != nil %}<{{ page.canvas.discussion }}>{% else %}`Link to be added`{% endif %}
