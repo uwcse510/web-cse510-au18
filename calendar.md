@@ -369,7 +369,7 @@ calendar:
     reading_report_standard: True
     reading_framing:
       - |
-        Patrick Baudisch and Stefanie Mueller. [Personal Fabrication: Introduction]({{ page.paper_url.baudisch2016 }}). Chapter in Foundations and Trends in Human–Computer Interaction 10, 3. 2017.
+        Patrick Baudisch and Stefanie Mueller. [Personal Fabrication: Introduction]({{ page.paper_url.baudisch2016 }}). Excerpt from Foundations and Trends in Human–Computer Interaction 10, 3. 2017.
     reading_instances:
       - |
         Huaishu Peng, Jennifer Mankoff, Scott E. Hudson, James McCann. [A Layered Fabric 3D Printer for Soft Interactive Objects]({{ page.paper_url.peng2015 }}). CHI 2015.
