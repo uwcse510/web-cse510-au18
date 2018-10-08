@@ -386,7 +386,7 @@ calendar:
 
   - date: Thu Oct 18
     collapse: False
-    title: "Research Topic: TBD"
+    title: "Research Topic: Human-Robot Interaction"
     guest: "[Maya Cakmak](https://homes.cs.washington.edu/~mcakmak/)"
     reading_report_standard: True
     content:
