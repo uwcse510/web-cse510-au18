@@ -48,7 +48,7 @@ paper_url:
   narayan2017:                  https://canvas.uw.edu/files/51117656/download?download_frd=1
   orlikowski1992:               https://canvas.uw.edu/files/51117657/download?download_frd=1
 # Personal Fabrication 
-  baudisch2016:                 https://canvas.uw.edu/files/51118442/download?download_frd=1
+  baudisch2016:                 https://canvas.uw.edu/files/51120383/download?download_frd=1
   peng2015:                     https://canvas.uw.edu/files/51118175/download?download_frd=1  
   he2017:                       https://canvas.uw.edu/files/51118176/download?download_frd=1
 # Designing with Children 
@@ -59,16 +59,16 @@ paper_url:
   mankoff2010:                  https://canvas.uw.edu/files/51118860/download?download_frd=1
   kane2017:                     https://canvas.uw.edu/files/51118855/download?download_frd=1
   rector2017:                   https://canvas.uw.edu/files/51118862/download?download_frd=1
+# Human Performance
+  accot1997:                    https://canvas.uw.edu/files/51124490/download?download_frd=1
+  apitz2004:                    https://canvas.uw.edu/files/51124492/download?download_frd=1
+  mackenzie1992:                https://canvas.uw.edu/files/51124493/download?download_frd=1
+  mackenzie2001:                https://canvas.uw.edu/files/51124494/download?download_frd=1
+  wobbrock2008:                 https://canvas.uw.edu/files/51124495/download?download_frd=1
 ## Modeling Touch Input
 #  buxton1995:                   https://canvas.uw.edu/files/46091559/download?download_frd=1
 #  holz2010:                     https://canvas.uw.edu/files/46091557/download?download_frd=1
 #  vogel2007:                    https://canvas.uw.edu/files/46091558/download?download_frd=1
-## Human Performance
-#  accot1997:                    https://canvas.uw.edu/files/46133449/download?download_frd=1
-#  apitz2004:                    https://canvas.uw.edu/files/46133451/download?download_frd=1
-#  mackenzie1992:                https://canvas.uw.edu/files/46133453/download?download_frd=1
-#  mackenzie2001:                https://canvas.uw.edu/files/46133447/download?download_frd=1
-#  wobbrock2008:                 https://canvas.uw.edu/files/46133448/download?download_frd=1
 ## Design Tools
 #  newman2003:                   https://canvas.uw.edu/files/46133501/download?download_frd=1
 #  hartmann2006:                 https://canvas.uw.edu/files/46208310/download?download_frd=1
@@ -225,7 +225,7 @@ calendar:
         You can and should skim according to your needs.
 
   - date: Thu Oct 4
-    collapse: False
+    collapse: True
     title: "Contributions in Human-Computer Interaction"
     reading_framing:
       - |

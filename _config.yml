@@ -36,7 +36,7 @@ exclude:
   - npm-shrinkwrap.json
   - package.json
   # Python
-  - env35
+  - env36
   - requirements3.in
   - requirements3.txt
   - tasks.py
