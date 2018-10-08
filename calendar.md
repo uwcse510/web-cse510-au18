@@ -42,16 +42,33 @@ paper_url:
   fogarty2017:                  https://canvas.uw.edu/files/50605464/download?download_frd=1
   greenberg2008:                https://canvas.uw.edu/files/50605465/download?download_frd=1
   olsen2007:                    https://canvas.uw.edu/files/50664670/download?download_frd=1
+# CSCW and Social Computing
+  grudin1994:                   https://canvas.uw.edu/files/51117655/download?download_frd=1
+  cranshaw2017:                 https://canvas.uw.edu/files/51117654/download?download_frd=1
+  narayan2017:                  https://canvas.uw.edu/files/51117656/download?download_frd=1
+  orlikowski1992:               https://canvas.uw.edu/files/51117657/download?download_frd=1
+# Personal Fabrication 
+  baudisch2016:                 https://canvas.uw.edu/files/51120383/download?download_frd=1
+  peng2015:                     https://canvas.uw.edu/files/51118175/download?download_frd=1  
+  he2017:                       https://canvas.uw.edu/files/51118176/download?download_frd=1
+# Designing with Children 
+  druin2002:                    https://canvas.uw.edu/files/51118363/download?download_frd=1
+  woodward2018:                 https://canvas.uw.edu/files/51118365/download?download_frd=1
+  yip2017:                      https://canvas.uw.edu/files/51118366/download?download_frd=1
+# Accessibility 
+  mankoff2010:                  https://canvas.uw.edu/files/51118860/download?download_frd=1
+  kane2017:                     https://canvas.uw.edu/files/51118855/download?download_frd=1
+  rector2017:                   https://canvas.uw.edu/files/51118862/download?download_frd=1
+# Human Performance
+  accot1997:                    https://canvas.uw.edu/files/51124490/download?download_frd=1
+  apitz2004:                    https://canvas.uw.edu/files/51124492/download?download_frd=1
+  mackenzie1992:                https://canvas.uw.edu/files/51124493/download?download_frd=1
+  mackenzie2001:                https://canvas.uw.edu/files/51124494/download?download_frd=1
+  wobbrock2008:                 https://canvas.uw.edu/files/51124495/download?download_frd=1
 ## Modeling Touch Input
 #  buxton1995:                   https://canvas.uw.edu/files/46091559/download?download_frd=1
 #  holz2010:                     https://canvas.uw.edu/files/46091557/download?download_frd=1
 #  vogel2007:                    https://canvas.uw.edu/files/46091558/download?download_frd=1
-## Human Performance
-#  accot1997:                    https://canvas.uw.edu/files/46133449/download?download_frd=1
-#  apitz2004:                    https://canvas.uw.edu/files/46133451/download?download_frd=1
-#  mackenzie1992:                https://canvas.uw.edu/files/46133453/download?download_frd=1
-#  mackenzie2001:                https://canvas.uw.edu/files/46133447/download?download_frd=1
-#  wobbrock2008:                 https://canvas.uw.edu/files/46133448/download?download_frd=1
 ## Design Tools
 #  newman2003:                   https://canvas.uw.edu/files/46133501/download?download_frd=1
 #  hartmann2006:                 https://canvas.uw.edu/files/46208310/download?download_frd=1
@@ -208,7 +225,7 @@ calendar:
         You can and should skim according to your needs.
 
   - date: Thu Oct 4
-    collapse: False
+    collapse: True
     title: "Contributions in Human-Computer Interaction"
     reading_framing:
       - |
@@ -346,9 +363,17 @@ calendar:
 
   - date: Tue Oct 16
     collapse: False
-    title: "Research Topic: TBD"
+    title: "Research Topic: Personal Fabrication "
     guest: "[Jon Froehlich](https://www.cs.washington.edu/people/faculty/jonf)"
     reading_report_standard: True
+    reading_framing:
+      - |
+        Patrick Baudisch and Stefanie Mueller. [Personal Fabrication: Introduction]({{ page.paper_url.baudisch2016 }}). Foundations and Trends in Human–Computer Interaction 10, 3. 2017.
+    reading_instances:
+      - |
+        Huaishu Peng, Jennifer Mankoff, Scott E. Hudson, James McCann. [A Layered Fabric 3D Printer for Soft Interactive Objects]({{ page.paper_url.peng2015 }}). CHI 2015.
+      - |
+        Liang He, Gierad Laput, Eric Brockmeyer, and Jon E. Froehlich. [SqueezaPulse: Adding Interactive Input to Fabricated Objects Using Corrugated Tubes and Air Pulses]({{ page.paper_url.he2017 }}). TEI 2017.
     content:
       - |
         <div class="alert" markdown="block">
@@ -381,10 +406,20 @@ calendar:
 
   - date: Thu Oct 25
     collapse: False
-    title: "Research Topic: TBD"
+    title: "Research Topic: CSCW and Social Computing"
     guest: "[Mako Hill](https://mako.cc/)"
     reading_report_standard: True
-    content:
+    reading_framing:
+      - |
+        Jonathan Grudin. [Groupware and Social Dynamics: Eight Challenges for Developers]({{ page.paper_url.grudin1994 }}). Communications of the ACM 37, 1. 1994. 
+    reading_instances:
+      - |
+        Justin Cranshaw, Emad Elwany, Todd Newman, Rafal Kocielnik, Bowen Yu, Sandeep Soni, Jaime Teevan, Andrés Monroy-Hernández. [Calendar.Help: Designing a Workflow-Based Scheduling Agent with Humans in the Loop]({{ page.paper_url.cranshaw2017 }}). CHI 2017.
+      - |
+        Narayan, Sneha, Jake Orlowitz, Jonathan Morgan, Benjamin Mako Hill, Aaron Shaw. [The Wikipedia Adventure: Field Evaluation of an Interactive Tutorial for New Users]({{ page.paper_url.narayan2017 }}). CSCW 2017. 
+    reading_resources:
+      - |
+        Wanda Orlikowski. [Learning from Notes: Organizational Issues in Groupware Implementation]({{ page.paper_url.orlikowski1992 }}). CSCW 1992.
 
   - date: Tue Oct 30
     collapse: False
@@ -448,9 +483,17 @@ calendar:
 
   - date: Tue Nov 13
     collapse: False
-    title: "Research Topic: TBD"
+    title: "Research Topic: Designing with Children"
     guest: "[Jason Yip](http://bigyipper.com/)"
     reading_report_standard: True
+    reading_framing:
+      - |
+        Allison Druin. [The Role of Children in the Design of New Technology]({{ page.paper_url.druin2002 }}). Behaviour and Information Technology 21, 1 2002.
+    reading_instances:
+      - |
+        Jason C. Yip, Kiley Sobel, Caroline Pitt, Kung Jin Lee, Sijin Chen, Kari Nasu, Laura R. Pina. [Examining Adult-Child Interactions in Intergenerational Participatory Design]({{ page.paper_url.yip2017 }}). CHI 2017.
+      - |
+        Julia Woodward, Zari McFadden, Nicole Shiver, Amir Ben-hayon, Jason C. Yip, Lisa Anthony. [Using Co-Design to Examine How Children Conceptualize Intelligent Interfaces]({{ page.paper_url.woodward2018 }}). CHI 2018.
     content:
 
   - date: Thu Nov 15
@@ -513,6 +556,14 @@ calendar:
     title: "Research Topic: Accessibility"
     guest: "[Meredith Ringle Morris](https://www.microsoft.com/en-us/research/people/merrie/)"
     reading_report_standard: True
+    reading_framing:
+      - |
+        Jennifer Mankoff, Gillian R. Hayes, Devva Kasnitz. [Disability Studies as a Source of Critical Inquiry for the Field of Assistive Technology]({{ page.paper_url.mankoff2010 }}). ASSETS 2010.
+    reading_instances:
+      - |
+        Shaun Kane, Meredith Ringel Morris, Ann Paradiso, Jon Campbell. ["At times avuncular and cantankerous, with the reflexes of a mongoose": Understanding Self-Expression through Augmentative and Alternative Communication Devices]({{ page.paper_url.kane2017 }}). CSCW 2017.
+      - |
+        Kyle Rector, Keith Salmon, Daniel Thornton, Neel Joshi, Meredith Ringel Morris. [Eyes-Free Art: Exploring Proxemic Audio Interfaces For Blind and Low Vision Art Engagement]({{ page.paper_url.rector2017 }}). UbiComp 2017.
     content:
 
   - date: Thu Dec 6
