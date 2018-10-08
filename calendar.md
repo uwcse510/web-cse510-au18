@@ -70,6 +70,11 @@ paper_url:
   heimerl2015:                  https://canvas.uw.edu/files/51134567/download?download_frd=1
   kumar2015:                    https://canvas.uw.edu/files/51134569/download?download_frd=1
   veeraraghavan2007:            https://canvas.uw.edu/files/51134571/download?download_frd=1
+# Interaction and Search
+  furnas1987:                   https://canvas.uw.edu/files/51139975/download?download_frd=1
+  bota2018:                     https://canvas.uw.edu/files/51139971/download?download_frd=1
+  adar2014:                     https://canvas.uw.edu/files/51139967/download?download_frd=1
+  norman2007:                   https://canvas.uw.edu/files/51139976/download?download_frd=1
 ## Modeling Touch Input
 #  buxton1995:                   https://canvas.uw.edu/files/46091559/download?download_frd=1
 #  holz2010:                     https://canvas.uw.edu/files/46091557/download?download_frd=1
@@ -325,6 +330,7 @@ calendar:
 
   - date:  Tue&nbsp;Oct&nbsp;2 to&nbsp;Mon&nbsp;Oct&nbsp;8
     title: Project Early Feedback Meetings
+    collapse: True
     content:
       - |
         Meeting is optional. You can also email to request feedback or to inquire about arranging another time to meet.
@@ -381,7 +387,7 @@ calendar:
         Liang He, Gierad Laput, Eric Brockmeyer, Jon E. Froehlich. [SqueezaPulse: Adding Interactive Input to Fabricated Objects Using Corrugated Tubes and Air Pulses]({{ page.paper_url.he2017 }}). TEI 2017.
     reading_resources:
       - |
-        Patrick Baudisch and Stefanie Mueller. [Personal Fabrication]({{ page.paper_url.baudisch2016_full }}). Foundations and Trends in Human–Computer Interaction 10, 3. 2017.
+        Patrick Baudisch Stefanie Mueller. [Personal Fabrication]({{ page.paper_url.baudisch2016_full }}). Foundations and Trends in Human–Computer Interaction 10, 3. 2017.
     content:
       - |
         <div class="alert" markdown="block">
@@ -504,7 +510,7 @@ calendar:
     reading_report_standard: True
     reading_framing:
       - |
-        Allison Druin. [The Role of Children in the Design of New Technology]({{ page.paper_url.druin2002 }}). Behaviour and Information Technology 21, 1 2002.
+        Allison Druin. [The Role of Children in the Design of New Technology]({{ page.paper_url.druin2002 }}). Behaviour and Information Technology 21, 1. 2002.
     reading_instances:
       - |
         Jason C. Yip, Kiley Sobel, Caroline Pitt, Kung Jin Lee, Sijin Chen, Kari Nasu, Laura R. Pina. [Examining Adult-Child Interactions in Intergenerational Participatory Design]({{ page.paper_url.yip2017 }}). CHI 2017.
@@ -514,9 +520,20 @@ calendar:
 
   - date: Thu Nov 15
     collapse: False
-    title: "Research Topic: TBD"
+    title: "Research Topic: Interaction and Search"
     guest: "[Adam Fourney](https://www.adamfourney.com/)"
     reading_report_standard: True
+    reading_framing:
+      - |
+        GW Furnas, TK Landauer, LM Gomez, ST Dumais. [The Vocabulary Problem in Human-System Communication]({{ page.paper_url.furnas1987 }}). Communications of the ACM 30, 11. 1987.
+    reading_instances:
+      - |
+        Horatiu Bota, Adam Fourney, Susan T. Dumais, Tomasz L. Religa, Robert Rounthwaite. [Characterizing Search Behavior in Productivity Software]({{ page.paper_url.bota2018 }}). CHIIR 2018.
+      - |
+        Eytan Adar, Mira Dontcheva, Gierad Laput. [CommandSpace: Modeling the Relationships Between Tasks, Descriptions and Features]({{ page.paper_url.adar2014 }}). UIST 2014.
+    reading_resources:
+      - |
+        Don Norman. [The Next UI Breakthrough: Command Lines]({{ page.paper_url.norman2007 }}). Interactions 14, 3. 2007.
     content:
 
   - date: Tue Nov 20
