@@ -66,6 +66,10 @@ paper_url:
   mackenzie1992:                https://canvas.uw.edu/files/51124493/download?download_frd=1
   mackenzie2001:                https://canvas.uw.edu/files/51124494/download?download_frd=1
   wobbrock2008:                 https://canvas.uw.edu/files/51124495/download?download_frd=1
+# ICDT
+  heimerl2015:                  https://canvas.uw.edu/files/51134567/download?download_frd=1
+  kumar2015:                    https://canvas.uw.edu/files/51134569/download?download_frd=1
+  veeraraghavan2007:            https://canvas.uw.edu/files/51134571/download?download_frd=1
 ## Modeling Touch Input
 #  buxton1995:                   https://canvas.uw.edu/files/46091559/download?download_frd=1
 #  holz2010:                     https://canvas.uw.edu/files/46091557/download?download_frd=1
@@ -369,12 +373,12 @@ calendar:
     reading_report_standard: True
     reading_framing:
       - |
-        Patrick Baudisch and Stefanie Mueller. [Personal Fabrication: Introduction]({{ page.paper_url.baudisch2016 }}). Excerpt from Foundations and Trends in Human–Computer Interaction 10, 3. 2017.
+        Patrick Baudisch, Stefanie Mueller. [Personal Fabrication: Introduction]({{ page.paper_url.baudisch2016 }}).  Excerpt from Foundations and Trends in Human–Computer Interaction 10, 3. 2017.
     reading_instances:
       - |
         Huaishu Peng, Jennifer Mankoff, Scott E. Hudson, James McCann. [A Layered Fabric 3D Printer for Soft Interactive Objects]({{ page.paper_url.peng2015 }}). CHI 2015.
       - |
-        Liang He, Gierad Laput, Eric Brockmeyer, and Jon E. Froehlich. [SqueezaPulse: Adding Interactive Input to Fabricated Objects Using Corrugated Tubes and Air Pulses]({{ page.paper_url.he2017 }}). TEI 2017.
+        Liang He, Gierad Laput, Eric Brockmeyer, Jon E. Froehlich. [SqueezaPulse: Adding Interactive Input to Fabricated Objects Using Corrugated Tubes and Air Pulses]({{ page.paper_url.he2017 }}). TEI 2017.
     reading_resources:
       - |
         Patrick Baudisch and Stefanie Mueller. [Personal Fabrication]({{ page.paper_url.baudisch2016_full }}). Foundations and Trends in Human–Computer Interaction 10, 3. 2017.
@@ -480,9 +484,17 @@ calendar:
 
   - date: Thu Nov 8
     collapse: False
-    title: "Research Topic: TBD"
+    title: "Research Topic: Information and Communication Technologies and Development"
     guest: "[Richard Anderson](https://www.cs.washington.edu/people/faculty/anderson)"
     reading_report_standard: True
+    reading_framing:
+      - |
+        Rajesh Veeraraghavan, Naga Yasodhar, Kentaro Toyama. [Warana Unwired: Replacing PCs with Mobile Phones in a Rural Sugarcane Cooperative]({{ page.paper_url.veeraraghavan2007 }}). ICTD 2007.
+    reading_instances:
+      - |
+        Neha Kumar, Richard Anderson. [Mobile Phones for Maternal Health in Rural India]({{ page.paper_url.kumar2015 }}). CHI 2015.
+      - |
+        Kurtis Heimerl, Shaddi Hasan, Kashif Ali, Tapan Parikh, Eric Brewer. [A Longitudinal Study of Local, Sustainable, Small-Scale Cellular Networks]({{ page.paper_url.heimerl2015 }}). ICTD 2013.
     content:
 
   - date: Tue Nov 13
