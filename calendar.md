@@ -51,6 +51,7 @@ paper_url:
   baudisch2016:                 https://canvas.uw.edu/files/51120383/download?download_frd=1
   peng2015:                     https://canvas.uw.edu/files/51118175/download?download_frd=1  
   he2017:                       https://canvas.uw.edu/files/51118176/download?download_frd=1
+  baudisch2016_full:            https://canvas.uw.edu/files/51133857/download?download_frd=1
 # Designing with Children 
   druin2002:                    https://canvas.uw.edu/files/51118363/download?download_frd=1
   woodward2018:                 https://canvas.uw.edu/files/51118365/download?download_frd=1
@@ -368,12 +369,15 @@ calendar:
     reading_report_standard: True
     reading_framing:
       - |
-        Patrick Baudisch and Stefanie Mueller. [Personal Fabrication: Introduction]({{ page.paper_url.baudisch2016 }}). Foundations and Trends in Human–Computer Interaction 10, 3. 2017.
+        Patrick Baudisch and Stefanie Mueller. [Personal Fabrication: Introduction]({{ page.paper_url.baudisch2016 }}). Chapter in Foundations and Trends in Human–Computer Interaction 10, 3. 2017.
     reading_instances:
       - |
         Huaishu Peng, Jennifer Mankoff, Scott E. Hudson, James McCann. [A Layered Fabric 3D Printer for Soft Interactive Objects]({{ page.paper_url.peng2015 }}). CHI 2015.
       - |
         Liang He, Gierad Laput, Eric Brockmeyer, and Jon E. Froehlich. [SqueezaPulse: Adding Interactive Input to Fabricated Objects Using Corrugated Tubes and Air Pulses]({{ page.paper_url.he2017 }}). TEI 2017.
+    reading_resources:
+      - |
+        Patrick Baudisch and Stefanie Mueller. [Personal Fabrication]({{ page.paper_url.baudisch2016_full }}). Foundations and Trends in Human–Computer Interaction 10, 3. 2017.
     content:
       - |
         <div class="alert" markdown="block">
