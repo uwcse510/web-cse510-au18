@@ -87,6 +87,10 @@ You can start a new discussion, participate in an existing discussion, or do a b
 You can discuss all of the assigned readings, or focus on a portion of the reading that you found most interesting. 
 The important part is that we can see intellectual effort in your forum participation, not just a simple paper summary.
 
+Reading reports are generally expected to be approximately 250 to 500 words,
+which may be in a single post or distributed across several posts related to a day's readings.
+This aims to strike a balance between: (1) enough text to convey a meaningful response, and (2) succinct enough to allow review before class.
+
 We will create Canvas discussion threads for each paper.
 If you have a thought or question that relates to multiple papers, post it wherever seems more appropriate.
 
