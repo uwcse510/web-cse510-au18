@@ -323,7 +323,7 @@ calendar:
       - |
         Donald E. Stokes. [Pasteur's Quadrant: Basic Science and Technological Innovation]({{ page.paper_url.stokes1997 }}). Book Chapter.
 
-  - date:  Tue&nbsp;Oct&nbsp;2 to&nbsp;Mon&nbsp;Oct&nbsp;9
+  - date:  Tue&nbsp;Oct&nbsp;2 to&nbsp;Mon&nbsp;Oct&nbsp;8
     title: Project Early Feedback Meetings
     content:
       - |
