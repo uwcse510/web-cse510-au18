@@ -75,10 +75,10 @@ paper_url:
   bota2018:                     https://canvas.uw.edu/files/51139971/download?download_frd=1
   adar2014:                     https://canvas.uw.edu/files/51139967/download?download_frd=1
   norman2007:                   https://canvas.uw.edu/files/51139976/download?download_frd=1
-## Modeling Touch Input
-#  buxton1995:                   https://canvas.uw.edu/files/46091559/download?download_frd=1
-#  holz2010:                     https://canvas.uw.edu/files/46091557/download?download_frd=1
-#  vogel2007:                    https://canvas.uw.edu/files/46091558/download?download_frd=1
+# Modeling Touch Input
+  buxton1995:                   https://canvas.uw.edu/files/51176808/download?download_frd=1
+  holz2010:                     https://canvas.uw.edu/files/51176810/download?download_frd=1
+  vogel2007:                    https://canvas.uw.edu/files/51176813/download?download_frd=1
 ## Design Tools
 #  newman2003:                   https://canvas.uw.edu/files/46133501/download?download_frd=1
 #  hartmann2006:                 https://canvas.uw.edu/files/46208310/download?download_frd=1
@@ -339,7 +339,7 @@ calendar:
         <https://calendar.google.com/calendar/selfsched?sstoken=UUhkV1oxenFvQmdqfGRlZmF1bHR8NTczYzFkZjQ3OTFiMmNiZTcwZmY4NzZmY2Q3OGNlYzg>
 
   - date: Tue Oct 9
-    collapse: False
+    collapse: True
     title: "Project Proposal Presentations"
     content:
       - |
@@ -579,10 +579,18 @@ calendar:
 
   - date: Thu Nov 29
     collapse: False
-    title: "Research Topic: TBD"
+    title: "Research Topic: Modeling Touch Input"
     guest: "[Christian Holz](https://www.christianholz.net/)"
     reading_report_standard: True
     content:
+    reading_framing:
+      - |
+        Bill Buxton. [Touch, Gesture, & Marking]({{ page.paper_url.buxton1995 }}). Book chapter 7 in Ronald M. Baecker, Jonathan Grudin, Bill Buxton, and Saul Greenberg, Readings in Human-Computer Interaction: Toward the Year 2000. 1995.
+    reading_instances:
+      - |
+        Christian Holz, Patrick Baudisch. [The Generalized Perceived Input Point Model and How to Double Touch Accuracy by Extracting Fingerprints]({{ page.paper_url.holz2010 }}). CHI 2010.
+      - |
+        Daniel Vogel, Patrick Baudisch. [Shift: A Technique for Operating Pen-Based Interfaces Using Touch]( {{ page.paper_url.vogel2007 }}). CHI 2007.
 
   - date: Tue Dec 4
     collapse: False
