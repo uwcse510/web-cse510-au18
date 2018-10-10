@@ -79,6 +79,10 @@ paper_url:
   buxton1995:                   https://canvas.uw.edu/files/51176808/download?download_frd=1
   holz2010:                     https://canvas.uw.edu/files/51176810/download?download_frd=1
   vogel2007:                    https://canvas.uw.edu/files/51176813/download?download_frd=1
+# Human-Robot Interaction
+  duffy2003:                    https://canvas.uw.edu/files/51198452/download?download_frd=1
+  fussell2008:                  https://canvas.uw.edu/files/51198453/download?download_frd=1
+  sung2007:                     https://canvas.uw.edu/files/51198454/download?download_frd=1
 ## Design Tools
 #  newman2003:                   https://canvas.uw.edu/files/46133501/download?download_frd=1
 #  hartmann2006:                 https://canvas.uw.edu/files/46208310/download?download_frd=1
@@ -399,6 +403,14 @@ calendar:
     title: "Research Topic: Human-Robot Interaction"
     guest: "[Maya Cakmak](https://homes.cs.washington.edu/~mcakmak/)"
     reading_report_standard: True
+    reading_framing:
+      - |
+        Brian Duffy. [Anthropomorphism and the Social Robot]({{ page.paper_url.duffy2003 }}).  Robotics and Autonomous Systems 42, 3. 2003.
+    reading_instances:
+      - |
+        Susan R. Fussell, Sara Kiesler, Leslie D. Setlock, Victoria Yew. [How People Anthropomorphize Robots]({{ page.paper_url.fussell2008 }}). HRI 2008.
+      - |
+        Ja-Young Sung, Lan Guo, Rebecca E. Grinter, Henrik I. Christensen. ["My Roomba Is Rambo": Intimate Home Appliances]({{ page.paper_url.sung2007 }}). UbiComp 2007.
     content:
       - |
         <div class="alert" markdown="block">
