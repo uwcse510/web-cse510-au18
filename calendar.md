@@ -127,6 +127,7 @@ paper_url:
 
 canvas:
   reading_discussion:   https://canvas.uw.edu/courses/1249568/discussion_topics
+  slides:               https://canvas.uw.edu/courses/1249568/files/folder/slides
   proposal_pres:        https://canvas.uw.edu/courses/1249568/assignments/4380344
   proposal_doc:         https://canvas.uw.edu/courses/1249568/assignments/4380324
   milestone1_pres:      https://canvas.uw.edu/courses/1249568/assignments/4380348
@@ -895,8 +896,8 @@ This page is still being migrated and developed. All content remains subject to 
 <div class="col-md-2" markdown="block">
 ## {{ daycurrent.date }}
 
-{% if daycurrent.slides %}
-\[[Slides]({{ daycurrent.slides }})\]
+{% if page.canvas.slides %}
+\[[Slides]({{ page.canvas.slides }})\]
 {% endif %}
 </div>
 <div class="col-md-10 calcontent" markdown="block">
