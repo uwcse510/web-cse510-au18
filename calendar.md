@@ -475,7 +475,7 @@ calendar:
 
   - date: Thu Nov 1
     collapse: False
-    title: "Research Topic: Toolkits"
+    title: "Research Topic: Interface Toolkits"
     reading_report_standard: True
     content:
 
