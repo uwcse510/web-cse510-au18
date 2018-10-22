@@ -378,7 +378,7 @@ calendar:
         James Fogarty. [Code and Contribution in Interactive Systems Research]({{ page.paper_url.fogarty2017 }}). CHI 2017 Workshop on #HCI.Tools: Strategies and Best Practices for Designing, Evaluating, and Sharing Technical HCI Toolkits.
 
   - date: Tue Oct 16
-    collapse: False
+    collapse: True
     title: "Research Topic: Personal Fabrication "
     guest: "[Jon Froehlich](https://www.cs.washington.edu/people/faculty/jonf)"
     reading_report_standard: True
@@ -400,7 +400,7 @@ calendar:
         </div>
 
   - date: Thu Oct 18
-    collapse: False
+    collapse: True
     title: "Research Topic: Human-Robot Interaction"
     guest: "[Maya Cakmak](https://homes.cs.washington.edu/~mcakmak/)"
     reading_report_standard: True
@@ -454,7 +454,7 @@ calendar:
     content:
       - |
         <div class="alert" markdown="block">
-        Class May Be 9:30 to 12:00 in CSE 403 to Accommodate Presentations
+        Class May Be 10:00 to 12:00 in CSE 403 to Accommodate Presentations
         </div>
       - |
         <div class="major" markdown="block">
@@ -475,7 +475,7 @@ calendar:
 
   - date: Thu Nov 1
     collapse: False
-    title: "Research Topic: Design Tools"
+    title: "Research Topic: Toolkits"
     reading_report_standard: True
     content:
 
@@ -555,7 +555,7 @@ calendar:
     content:
       - |
         <div class="alert" markdown="block">
-        Class May Be 9:30 to 12:00 in CSE 403 to Accommodate Presentations
+        Class May Be 10:00 to 12:00 in CSE 403 to Accommodate Presentations
         </div>
       - |
         <div class="major" markdown="block">
