@@ -83,6 +83,10 @@ paper_url:
   duffy2003:                    https://canvas.uw.edu/files/51198452/download?download_frd=1
   fussell2008:                  https://canvas.uw.edu/files/51198453/download?download_frd=1
   sung2007:                     https://canvas.uw.edu/files/51198454/download?download_frd=1
+# Interface Toolkits
+  bostock2011:                  https://canvas.uw.edu/files/51509428/download?download_frd=1
+  dixon2010:                    https://canvas.uw.edu/files/51509432/download?download_frd=1
+  myers2000:                    https://canvas.uw.edu/files/51509435/download?download_frd=1
 ## Design Tools
 #  newman2003:                   https://canvas.uw.edu/files/46133501/download?download_frd=1
 #  hartmann2006:                 https://canvas.uw.edu/files/46208310/download?download_frd=1
@@ -91,10 +95,6 @@ paper_url:
 #  ko2004:                       https://canvas.uw.edu/files/46133590/download?download_frd=1
 #  bragdon2010:                  https://canvas.uw.edu/files/46133596/download?download_frd=1
 #  verou2016:                    https://canvas.uw.edu/files/46133597/download?download_frd=1
-## Interface Toolkits
-#  bostock2011:                  https://canvas.uw.edu/files/46133657/download?download_frd=1
-#  dixon2010:                    https://canvas.uw.edu/files/46133654/download?download_frd=1
-#  myers2000:                    https://canvas.uw.edu/files/46133656/download?download_frd=1
 ## ICTD
 #  brewer2005:                   https://canvas.uw.edu/files/46168292/download?download_frd=1
 #  smyth2010:                    https://canvas.uw.edu/files/46168273/download?download_frd=1
@@ -478,6 +478,14 @@ calendar:
     title: "Research Topic: Interface Toolkits"
     reading_report_standard: True
     content:
+    reading_framing:
+      - |
+        Brad Myers, Scott E. Hudson, Randy Pausch. [Past, Present, and Future of User Interface Software Tools]({{page.paper_url.myers2000}}). TOCHI 2000.
+    reading_instances:
+      - |
+        Michael Bostock, Vadim Ogievetsky, Jeffrey Heer. [D<sup>3</sup>: Data-Driven Documents]({{page.paper_url.bostock2011}}). InfoVis 2011.
+      - |
+        Morgan Dixon, James Fogarty. [Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure]({{page.paper_url.dixon2010}}). CHI 2010.
 
   - date: Tue Nov 6
     collapse: False

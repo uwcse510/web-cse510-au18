@@ -8,7 +8,7 @@ due:
 canvas:
   discussion: "https://canvas.uw.edu/courses/1249568/discussion_topics"
   discussion_sample_projects: "https://canvas.uw.edu/courses/1249568/discussion_topics/4437368"
-  stats_submit:
+  stats_submit: https://canvas.uw.edu/courses/1249568/assignments/4380322
   exam_submit: https://canvas.uw.edu/courses/1249568/assignments/4380323
 ---
 
@@ -171,7 +171,7 @@ Jacob Wobbrock's independent study in Practical Statistics for Human-Computer I
 
 The assignment is available for download:
 
-`<{{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip>`
+<{{ site.url }}{{ site.baseurl }}/assignments/statisticslab.zip>
 
 ### Submission
 
