@@ -87,6 +87,11 @@ paper_url:
   bostock2011:                  https://canvas.uw.edu/files/51509428/download?download_frd=1
   dixon2010:                    https://canvas.uw.edu/files/51509432/download?download_frd=1
   myers2000:                    https://canvas.uw.edu/files/51509435/download?download_frd=1
+# Research through Design
+  gaver2012:                    https://canvas.uw.edu/files/51555426/download?download_frd=1
+  odom2016:                     https://canvas.uw.edu/files/51555432/download?download_frd=1
+  wallace2018:                  https://canvas.uw.edu/files/51555436/download?download_frd=1
+  stappers2012:                 https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/research-through-design
 ## Design Tools
 #  newman2003:                   https://canvas.uw.edu/files/46133501/download?download_frd=1
 #  hartmann2006:                 https://canvas.uw.edu/files/46208310/download?download_frd=1
@@ -419,7 +424,7 @@ calendar:
         </div>
 
   - date: Tue Oct 23
-    collapse: False
+    collapse: True
     title: "Experimental Design and Analysis"
     content:
       - |
@@ -630,10 +635,21 @@ calendar:
 
   - date: Thu Dec 6
     collapse: False
-    title: "Research Topic: TBD"
+    title: "Research Topic: Research through Design"
     guest: "[Audrey Desjardins](http://www.audreydesjardins.com/)"
     reading_report_standard: True
     content:
+    reading_framing:
+      - |
+        William Gaver. [What Should We Expect from Research Through Design?]({{ page.paper_url.gaver2012 }}). CHI 2012.
+    reading_instances:
+      - |
+        William Odom, Ron Wakkary, Youn-kyung Lim, Audrey Desjardins, Bart Hengeveld, Richard Banks. [From Research Prototype to Research Product]({{ page.paper_url.odom2016 }}). CHI 2016.
+      - |
+        Jayne Wallace, Jon Rogers, Michael Shorter, Pete Thomas, Martin Skelly, Richard Cook. [The SelfReflector: Design, IoT and the High Street]({{ page.paper_url.wallace2018 }}). CHI 2018.
+    reading_resources:
+      - |
+        Pieter Stappers and Elisa Giaccardi. [Research through Design]({{ page.paper_url.stappers2012 }}). Book chapter 43 in Mads Soegaard and Rikke Friis Dam, The Encyclopedia of Human-Computer Interaction, 2nd Edition. 2012.
 
   - date:  Mon Dec 10
     collapse: False
