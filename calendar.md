@@ -92,6 +92,10 @@ paper_url:
   odom2016:                     https://canvas.uw.edu/files/51555432/download?download_frd=1
   wallace2018:                  https://canvas.uw.edu/files/51555436/download?download_frd=1
   stappers2012:                 https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/research-through-design
+# Personal Informatics
+  li2010:                       https://canvas.uw.edu/files/51565623/download?download_frd=1
+  mishra2018:                   https://canvas.uw.edu/files/51565624/download?download_frd=1
+  choe2014:                     https://canvas.uw.edu/files/51565619/download?download_frd=1
 ## Design Tools
 #  newman2003:                   https://canvas.uw.edu/files/46133501/download?download_frd=1
 #  hartmann2006:                 https://canvas.uw.edu/files/46208310/download?download_frd=1
@@ -598,10 +602,18 @@ calendar:
 
   - date: Tue Nov 27
     collapse: False
-    title: "Research Topic: TBD"
+    title: "Research Topic: Personal Informatics in Health"
     guest: "[Wanda Pratt](https://faculty.washington.edu/wpratt/)"
     reading_report_standard: True
     content:
+    reading_framing:
+      - |
+        Ian Li, Anind Dey, Jodi Forlizzi. [A Stage-Based Model of Personal Informatics Systems]({{ page.paper_url.li2010 }}). CHI 2010.
+    reading_instances:
+      - |
+        Sonali R. Mishra, Andrew D. Miller, Shefali Haldar, Maher Khelifi, Jordan Eschler, Rashmi G. Elera, Ari H. Pollack, Wanda Pratt. [Supporting Collaborative Health Tracking in the Hospital: Patients' Perspectives]({{ page.paper_url.mishra2018 }}). CHI 2018.
+      - |
+        Eun Kyoung Choe, Nicole B. Lee, Bongshin Lee, Wanda Pratt, Julie A. Kientz. [Understanding Quantified-Selfers’ Practices in Collecting and Exploring Personal Data]( {{ page.paper_url.choe2014 }}). CHI 2014.
 
   - date: Thu Nov 29
     collapse: False
