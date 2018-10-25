@@ -441,7 +441,7 @@ calendar:
         No Readings Assigned
 
   - date: Thu Oct 25
-    collapse: False
+    collapse: True
     title: "Research Topic: CSCW and Social Computing"
     guest: "[Mako Hill](https://mako.cc/)"
     reading_report_standard: True
