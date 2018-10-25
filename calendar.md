@@ -463,7 +463,7 @@ calendar:
     content:
       - |
         <div class="alert" markdown="block">
-        Class May Be 10:00 to 12:00 in CSE 403 to Accommodate Presentations
+        Class Will Be 10:00 to 12:00 in CSE 403 to Accommodate Presentations
         </div>
       - |
         <div class="major" markdown="block">
@@ -572,7 +572,7 @@ calendar:
     content:
       - |
         <div class="alert" markdown="block">
-        Class May Be 10:00 to 12:00 in CSE 403 to Accommodate Presentations
+        Class Will Be 10:00 to 12:00 in CSE 403 to Accommodate Presentations
         </div>
       - |
         <div class="major" markdown="block">
