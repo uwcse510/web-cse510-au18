@@ -458,7 +458,7 @@ calendar:
         Wanda Orlikowski. [Learning from Notes: Organizational Issues in Groupware Implementation]({{ page.paper_url.orlikowski1992 }}). CSCW 1992.
 
   - date: Tue Oct 30
-    collapse: False
+    collapse: True
     title: "Project Progress Presentations"
     content:
       - |
