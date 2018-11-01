@@ -483,7 +483,7 @@ calendar:
         Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible).
 
   - date: Thu Nov 1
-    collapse: False
+    collapse: True
     title: "Research Topic: Interface Toolkits"
     reading_report_standard: True
     content:
