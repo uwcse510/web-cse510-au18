@@ -497,7 +497,7 @@ calendar:
         Morgan Dixon, James Fogarty. [Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure]({{page.paper_url.dixon2010}}). CHI 2010.
 
   - date: Tue Nov 6
-    collapse: False
+    collapse: True
     title: "Research Topic: Human Performance with Computing Systems"
     guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
     reading_report_standard: True
@@ -519,7 +519,7 @@ calendar:
     content:
 
   - date: Thu Nov 8
-    collapse: False
+    collapse: True
     title: "Research Topic: Information and Communication Technologies and Development"
     guest: "[Richard Anderson](https://www.cs.washington.edu/people/faculty/anderson)"
     reading_report_standard: True
