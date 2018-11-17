@@ -534,7 +534,7 @@ calendar:
     content:
 
   - date: Tue Nov 13
-    collapse: False
+    collapse: True
     title: "Research Topic: Designing with Children"
     guest: "[Jason Yip](http://bigyipper.com/)"
     reading_report_standard: True
@@ -549,7 +549,7 @@ calendar:
     content:
 
   - date: Thu Nov 15
-    collapse: False
+    collapse: True
     title: "Research Topic: Interaction and Search"
     guest: "[Adam Fourney](https://www.adamfourney.com/)"
     reading_report_standard: True
