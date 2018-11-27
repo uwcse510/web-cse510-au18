@@ -567,7 +567,7 @@ calendar:
     content:
 
   - date: Tue Nov 20
-    collapse: False
+    collapse: True
     title: "Project Progress Presentations"
     content:
       - |
@@ -592,7 +592,7 @@ calendar:
         Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible).
 
   - date: Mon Nov 26
-    collapse: False
+    collapse: True
     title: Statistics Lab Due
     content:
       - |
