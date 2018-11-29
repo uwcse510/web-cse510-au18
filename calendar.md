@@ -601,7 +601,7 @@ calendar:
         </div>
 
   - date: Tue Nov 27
-    collapse: False
+    collapse: True
     title: "Research Topic: Personal Informatics in Health"
     guest: "[Wanda Pratt](https://faculty.washington.edu/wpratt/)"
     reading_report_standard: True
@@ -616,7 +616,7 @@ calendar:
         Eun Kyoung Choe, Nicole B. Lee, Bongshin Lee, Wanda Pratt, Julie A. Kientz. [Understanding Quantified-Selfers’ Practices in Collecting and Exploring Personal Data]( {{ page.paper_url.choe2014 }}). CHI 2014.
 
   - date: Thu Nov 29
-    collapse: False
+    collapse: True
     title: "Research Topic: Modeling Touch Input"
     guest: "[Christian Holz](https://www.christianholz.net/)"
     reading_report_standard: True
