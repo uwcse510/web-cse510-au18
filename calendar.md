@@ -149,7 +149,7 @@ canvas:
 
 calendar:
   - date: Thu Sep 27
-    collapse: True
+    collapse: False
     title: "Course Overview and HCI History"
     slides: "https://canvas.uw.edu/files/50912960/download?download_frd=1"
     content:
@@ -160,7 +160,7 @@ calendar:
         Jonathan Grudin. [A Moving Target - The Evolution of Human-Computer Interaction]({{ page.paper_url.grudin2012 }}). Book Chapter.
 
   - date: Tue Oct 2
-    collapse: True
+    collapse: False
     title: "Visions of Human-Computer Interaction"
     content:
       - |
@@ -249,7 +249,7 @@ calendar:
         You can and should skim according to your needs.
 
   - date: Thu Oct 4
-    collapse: True
+    collapse: False
     title: "Contributions in Human-Computer Interaction"
     reading_framing:
       - |
@@ -344,7 +344,7 @@ calendar:
 
   - date:  Tue&nbsp;Oct&nbsp;2 to&nbsp;Mon&nbsp;Oct&nbsp;8
     title: Project Early Feedback Meetings
-    collapse: True
+    collapse: False
     content:
       - |
         Meeting is optional. You can also email to request feedback or to inquire about arranging another time to meet.
@@ -353,7 +353,7 @@ calendar:
         <https://calendar.google.com/calendar/selfsched?sstoken=UUhkV1oxenFvQmdqfGRlZmF1bHR8NTczYzFkZjQ3OTFiMmNiZTcwZmY4NzZmY2Q3OGNlYzg>
 
   - date: Tue Oct 9
-    collapse: True
+    collapse: False
     title: "Project Proposal Presentations"
     content:
       - |
@@ -374,7 +374,7 @@ calendar:
         Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible).
 
   - date: Thu Oct 11
-    collapse: True
+    collapse: False
     title: "Usability Evaluation Considered Harmful"
     reading_report_standard: True
     reading_framing:
@@ -387,7 +387,7 @@ calendar:
         James Fogarty. [Code and Contribution in Interactive Systems Research]({{ page.paper_url.fogarty2017 }}). CHI 2017 Workshop on #HCI.Tools: Strategies and Best Practices for Designing, Evaluating, and Sharing Technical HCI Toolkits.
 
   - date: Tue Oct 16
-    collapse: True
+    collapse: False
     title: "Research Topic: Personal Fabrication "
     guest: "[Jon Froehlich](https://www.cs.washington.edu/people/faculty/jonf)"
     reading_report_standard: True
@@ -409,7 +409,7 @@ calendar:
         </div>
 
   - date: Thu Oct 18
-    collapse: True
+    collapse: False
     title: "Research Topic: Human-Robot Interaction"
     guest: "[Maya Cakmak](https://homes.cs.washington.edu/~mcakmak/)"
     reading_report_standard: True
@@ -428,7 +428,7 @@ calendar:
         </div>
 
   - date: Tue Oct 23
-    collapse: True
+    collapse: False
     title: "Experimental Design and Analysis"
     content:
       - |
@@ -441,7 +441,7 @@ calendar:
         No Readings Assigned
 
   - date: Thu Oct 25
-    collapse: True
+    collapse: False
     title: "Research Topic: CSCW and Social Computing"
     guest: "[Mako Hill](https://mako.cc/)"
     reading_report_standard: True
@@ -458,7 +458,7 @@ calendar:
         Wanda Orlikowski. [Learning from Notes: Organizational Issues in Groupware Implementation]({{ page.paper_url.orlikowski1992 }}). CSCW 1992.
 
   - date: Tue Oct 30
-    collapse: True
+    collapse: False
     title: "Project Progress Presentations"
     content:
       - |
@@ -483,7 +483,7 @@ calendar:
         Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible).
 
   - date: Thu Nov 1
-    collapse: True
+    collapse: False
     title: "Research Topic: Interface Toolkits"
     reading_report_standard: True
     content:
@@ -497,7 +497,7 @@ calendar:
         Morgan Dixon, James Fogarty. [Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure]({{page.paper_url.dixon2010}}). CHI 2010.
 
   - date: Tue Nov 6
-    collapse: True
+    collapse: False
     title: "Research Topic: Human Performance with Computing Systems"
     guest: "[Jacob Wobbrock](https://faculty.washington.edu/wobbrock/)"
     reading_report_standard: True
@@ -519,7 +519,7 @@ calendar:
     content:
 
   - date: Thu Nov 8
-    collapse: True
+    collapse: False
     title: "Research Topic: Information and Communication Technologies and Development"
     guest: "[Richard Anderson](https://www.cs.washington.edu/people/faculty/anderson)"
     reading_report_standard: True
@@ -534,7 +534,7 @@ calendar:
     content:
 
   - date: Tue Nov 13
-    collapse: True
+    collapse: False
     title: "Research Topic: Designing with Children"
     guest: "[Jason Yip](http://bigyipper.com/)"
     reading_report_standard: True
@@ -549,7 +549,7 @@ calendar:
     content:
 
   - date: Thu Nov 15
-    collapse: True
+    collapse: False
     title: "Research Topic: Interaction and Search"
     guest: "[Adam Fourney](https://www.adamfourney.com/)"
     reading_report_standard: True
@@ -567,7 +567,7 @@ calendar:
     content:
 
   - date: Tue Nov 20
-    collapse: True
+    collapse: False
     title: "Project Progress Presentations"
     content:
       - |
@@ -592,7 +592,7 @@ calendar:
         Be sure to consider guidance on [Making Your Presentation Accessible](http://interactions.acm.org/archive/view/july-august-2017/making-your-presentation-accessible).
 
   - date: Mon Nov 26
-    collapse: True
+    collapse: False
     title: Statistics Lab Due
     content:
       - |
@@ -601,7 +601,7 @@ calendar:
         </div>
 
   - date: Tue Nov 27
-    collapse: True
+    collapse: False
     title: "Research Topic: Personal Informatics in Health"
     guest: "[Wanda Pratt](https://faculty.washington.edu/wpratt/)"
     reading_report_standard: True
@@ -616,7 +616,7 @@ calendar:
         Eun Kyoung Choe, Nicole B. Lee, Bongshin Lee, Wanda Pratt, Julie A. Kientz. [Understanding Quantified-Selfers’ Practices in Collecting and Exploring Personal Data]( {{ page.paper_url.choe2014 }}). CHI 2014.
 
   - date: Thu Nov 29
-    collapse: True
+    collapse: False
     title: "Research Topic: Modeling Touch Input"
     guest: "[Christian Holz](https://www.christianholz.net/)"
     reading_report_standard: True
